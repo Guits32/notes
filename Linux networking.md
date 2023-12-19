@@ -34,5 +34,10 @@ cat /proc/sys/net/ipv4/ip_forward
 
 Faire une entrée DNS sur l'hôte
 ```
-vim /
+vim /etc/hosts
+```
+
+Lister les entrées DNS  de l'hôte:
+```
+cat /etc/resolv.conf
 ```
