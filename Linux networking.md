@@ -32,7 +32,7 @@ cat /proc/sys/net/ipv4/ip_forward
 
 ### DNS resolution
 
-Faire une entrée DNS sur l'hôte
+Faire une entrée locale DNS sur l'hôte
 ```
 vim /etc/hosts
 ```
