@@ -41,3 +41,8 @@ Lister les entrées DNS  de l'hôte:
 ```
 cat /etc/resolv.conf
 ```
+
+Voir ou éditer la configuration de l'ordre des résolutions dns de l'hôte:
+```
+cat /etc/nsswitch.conf
+```
