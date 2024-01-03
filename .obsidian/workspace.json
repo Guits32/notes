@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5db8114b2f8961bf",
+        "id": "4efc68500f3226e3",
         "type": "tabs",
         "children": [
           {
-            "id": "9268635e2cd0c534",
+            "id": "2d7ed9e9d99db880",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7abd93155068118c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Achat pc portable.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Achat pc portable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Achat pc portable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Achat pc portable.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7abd93155068118c",
+  "active": "2d7ed9e9d99db880",
   "lastOpenFiles": [
     "Linux networking.md",
     "Achat pc portable.md",
