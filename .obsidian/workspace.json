@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4efc68500f3226e3",
+        "id": "5db8114b2f8961bf",
         "type": "tabs",
         "children": [
           {
-            "id": "2d7ed9e9d99db880",
+            "id": "9268635e2cd0c534",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Linux networking.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Achat pc portable.md"
+              }
             }
           }
         ]
@@ -138,7 +144,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d7ed9e9d99db880",
+  "active": "ea1f7fa6f97e038d",
   "lastOpenFiles": [
     "Linux networking.md",
     "Achat pc portable.md",
