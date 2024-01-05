@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4efc68500f3226e3",
+        "id": "a1feee6edb73138a",
         "type": "tabs",
         "children": [
           {
-            "id": "2d7ed9e9d99db880",
+            "id": "d38fe937b0aac614",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux networking.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux networking.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,12 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d7ed9e9d99db880",
+  "active": "ea1f7fa6f97e038d",
   "lastOpenFiles": [
-    "home/Proxmox.md",
-    "Make bootable usb.md",
-    "home",
     "Linux networking.md",
+    "tmp/Proxmox.md",
+    "Make bootable usb.md",
+    "tmp",
     "Achat pc portable.md",
     "Openssl.md"
   ]
