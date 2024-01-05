@@ -1,17 +1,18 @@
-List block devices & retrieve the usb device:
+List block devices & retrieve the usb:
 ```
 lsblk
 ```
 
-:
+Format partitions:
 ```
 sudo mkfs.vfat /dev/sdX
 ```
 
-Remove old partition
+Remove partitions:
 ```
 sudo sfdisk --delete /dev/sdX
 ```
+
 
 ```
 
