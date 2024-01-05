@@ -15,23 +15,16 @@ Remove all partitions:
 sudo sfdisk --delete /dev/sdX
 ```
 
-
+Copy iso to usb:
+- `file.iso`: the iso image
+- `X` : the device to copy the iso on
+```
+sudo dd if=file.iso of=/dev/sdX bs=4M status=progress
 ```
 
+Empty cache to persitent disk:
+```
+sync
 ```
 
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
+Remove the usb.
