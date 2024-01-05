@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5db8114b2f8961bf",
+        "id": "2247f27ff60c39f2",
         "type": "tabs",
         "children": [
           {
-            "id": "9268635e2cd0c534",
+            "id": "6a4b86ba966209a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14c21280e5885251",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home/Proxmox.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/Proxmox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/Proxmox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "home/Proxmox.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,12 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14c21280e5885251",
+  "active": "6a4b86ba966209a9",
   "lastOpenFiles": [
+    "Linux networking.md",
     "home/Proxmox.md",
     "home",
     "Achat pc portable.md",
-    "Linux networking.md",
     "Openssl.md"
   ]
 }
