@@ -3,12 +3,14 @@ List block devices & retrieve the usb:
 lsblk
 ```
 
-Format partitions:
+Format a partition:
+  - X: identify the device
+  - n: identify the partition
 ```
-sudo mkfs.vfat /dev/sdX
+sudo mkfs.vfat /dev/sdXn
 ```
 
-Remove partitions:
+Remove all partitions:
 ```
 sudo sfdisk --delete /dev/sdX
 ```
