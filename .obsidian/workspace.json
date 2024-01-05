@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/Proxmox.md",
+                "file": "Linux networking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/Proxmox.md",
+                "file": "Linux networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home/Proxmox.md",
+                "file": "Linux networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/Proxmox.md"
+                "file": "Linux networking.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "2d7ed9e9d99db880",
   "lastOpenFiles": [
-    "Make bootable usb.md",
     "home/Proxmox.md",
+    "Make bootable usb.md",
     "home",
     "Linux networking.md",
     "Achat pc portable.md",
