@@ -7,7 +7,8 @@ https://blog.zwindler.fr/2020/03/02/deploiement-de-proxmox-ve-6-pfsense-sur-un-s
 A faire:
 
 - Mettre en place le dynDNS et faire une entrée pour l'interface du  proxmox
-- Configurer le postfix de la VM proxmox pour qu'il puisse envoyer des mails
+- Configurer un serveur de mail
+- Configurer le postfix de la VM proxmox pour qu'il envoie des mails sur le serveur de mail
 
 ## Mise en place du serveur mail
 
