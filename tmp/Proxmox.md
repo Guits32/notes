@@ -11,4 +11,11 @@ A faire:
 
 ## Mise en place du serveur mail
 
-Pour pouvoir mettre en place en place le serveur mail sur le proxmox, il faut que la VM soit exposé sur le NET a priori.s
+Pour pouvoir mettre en place en place le serveur mail sur le proxmox, il faut que la VM soit exposé sur le NET a priori. Ce tuto semble pas mal: https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-as-a-send-only-smtp-server-on-ubuntu-22-04
+
+Je pense également que pour utiliser le protocole 587 et être en mode "sécurisé" il faut mettre en place un certificat tls qui sera utilisé par le postfix.
+
+Pour la VM de mail les specs hardware nécessaire (avec un debian server):
+- disk: 3GB
+- RAM: 512 MB
+- CPU: 1 thread
