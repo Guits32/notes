@@ -12,8 +12,11 @@ A faire:
 
 ## Mise en palce d'un dynamic DNS
 
-Le 
+Le DNS dynamique va permettre de mapper une dynamique (delle de la box) sur un domaine statique, ainsi je pourrai me connecter au VPN en utilisant des informations qui ne changeront pas (ou en tout cas, pas parce que l'IP a changé).
 
+**Ca devient intéressant à partir du moment où j'aurai installé un VPN. Tant que je n'ai pas de VPN, aucun intérêt à faciliter l'accès au réseau local.**
+
+Le DynDNS est un service externe au réseau de ce que j'ai compris, il y en a des gratuits, par exemple [no-ip](https://www.noip.com/)
 ## Mise en place du serveur mail
 
 Pour pouvoir mettre en place en place le serveur mail sur le proxmox, il faut que la VM soit exposé sur le NET a priori. Ce tuto semble pas mal: https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-as-a-send-only-smtp-server-on-ubuntu-22-04
