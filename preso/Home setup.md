@@ -15,6 +15,9 @@ https://blog.zwindler.fr/2020/03/02/deploiement-de-proxmox-ve-6-pfsense-sur-un-s
 - Mettre en place un serveur de mail
 - Configurer le postfix de la VM proxmox pour qu'il envoie des mails sur le serveur de mail configuré
 
+
+
+![[dns_schema_home.png]]
 ## Mise en place d'un dynamic DNS
 
 Le DNS dynamique va permettre de mapper une IP dynamique (celle de la box) sur un domaine statique, ainsi je pourrai me connecter au VPN en utilisant des informations qui ne changeront pas (ou en tout cas, pas parce que l'IP a changé).
