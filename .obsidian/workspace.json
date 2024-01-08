@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cd3d6250837db712",
+        "id": "4f25f6a7842ce917",
         "type": "tabs",
         "children": [
           {
-            "id": "05de8705779d152d",
+            "id": "99087569298b365e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tmp/Proxmox.md",
+                "file": "preso/Home setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tmp/Proxmox.md",
+                "file": "preso/Home setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tmp/Proxmox.md",
+                "file": "preso/Home setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tmp/Proxmox.md"
+                "file": "preso/Home setup.md"
               }
             }
           }
@@ -146,13 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05de8705779d152d",
+  "active": "ea1f7fa6f97e038d",
   "lastOpenFiles": [
-    "tmp/Proxmox.md",
-    "Linux networking.md",
     "Make bootable usb.md",
-    "tmp",
-    "Achat pc portable.md",
-    "Openssl.md"
+    "Openssl.md",
+    "Linux networking.md",
+    "preso/Home setup.md",
+    "preso",
+    "Achat pc portable.md"
   ]
 }

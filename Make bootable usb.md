@@ -22,7 +22,7 @@ Copy iso to usb:
 sudo dd if=file.iso of=/dev/sdX bs=4M status=progress
 ```
 
-Empty cache to persitent disk:
+Empty cache to persistent disk:
 ```
 sync
 ```
