@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux networking.md",
+                "file": "preso/Home setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux networking.md",
+                "file": "preso/Home setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux networking.md",
+                "file": "preso/Home setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux networking.md"
+                "file": "preso/Home setup.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "c0e088e3c97fa8ee",
   "lastOpenFiles": [
+    "Linux networking.md",
     "preso/Home setup.md",
     "Make bootable usb.md",
     "Openssl.md",
-    "Linux networking.md",
     "preso",
     "Achat pc portable.md"
   ]
