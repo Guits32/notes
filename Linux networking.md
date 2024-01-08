@@ -37,7 +37,7 @@ Faire une entrée locale DNS sur l'hôte
 vim /etc/hosts
 ```
 
-Lister les entrées DNS  de l'hôte:
+Lister les serveurs DNS utilisés par l'hôte:
 ```
 cat /etc/resolv.conf
 ```
