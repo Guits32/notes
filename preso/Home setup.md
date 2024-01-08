@@ -15,9 +15,17 @@ https://blog.zwindler.fr/2020/03/02/deploiement-de-proxmox-ve-6-pfsense-sur-un-s
 - Mettre en place un serveur de mail
 - Configurer le postfix de la VM proxmox pour qu'il envoie des mails sur le serveur de mail configuré
 
+## Mise en place du DNS - coredns
 
+Le dns est en place sur 192.168.1.22 - hsotname: dns
 
-![[dns_schema_home.png]]
+![[assets/dns_schema_home.png]]
+
+Pour le moment aucune machine n'est configuré pour utiliser ce DNS.
+Le binaire coredns n'est pas non plus démarré sur la machine.
+La configuration des entrées dns n'est faites qu'artisanalement via le /etc/hosts
+
+Il faut proprifier tout ça.
 ## Mise en place d'un dynamic DNS
 
 Le DNS dynamique va permettre de mapper une IP dynamique (celle de la box) sur un domaine statique, ainsi je pourrai me connecter au VPN en utilisant des informations qui ne changeront pas (ou en tout cas, pas parce que l'IP a changé).
