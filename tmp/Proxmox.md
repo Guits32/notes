@@ -6,13 +6,13 @@ https://blog.zwindler.fr/2020/03/02/deploiement-de-proxmox-ve-6-pfsense-sur-un-s
 
 A faire:
 
-- Mettre en place le dynDNS et faire une entrée pour l'interface du  proxmox
+- Mettre en place le DynDNS et faire une entrée pour l'interface du  proxmox
 - Configurer un serveur de mail
 - Configurer le postfix de la VM proxmox pour qu'il envoie des mails sur le serveur de mail
 
-## Mise en palce d'un dynamic DNS
+## Mise en place d'un dynamic DNS
 
-Le DNS dynamique va permettre de mapper une dynamique (delle de la box) sur un domaine statique, ainsi je pourrai me connecter au VPN en utilisant des informations qui ne changeront pas (ou en tout cas, pas parce que l'IP a changé).
+Le DNS dynamique va permettre de mapper une IP dynamique (celle de la box) sur un domaine statique, ainsi je pourrai me connecter au VPN en utilisant des informations qui ne changeront pas (ou en tout cas, pas parce que l'IP a changé).
 
 **Ca devient intéressant à partir du moment où j'aurai installé un VPN. Tant que je n'ai pas de VPN, aucun intérêt à faciliter l'accès au réseau local.**
 
