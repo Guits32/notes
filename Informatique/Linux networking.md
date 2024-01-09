@@ -68,3 +68,8 @@ Exécuter la commande `arp` dans un namespace:
 ```
 ip -n red arp
 ```
+
+Exécuter la commande `route` dans un namespace:
+```
+ip -n red route
+```
