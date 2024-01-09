@@ -32,6 +32,7 @@ Le dodo au Refuge de Baysselance:
 
 Y'a plusieurs entreprises qui proposent d'accompagner des groupes sur le glacier.
 ### Avec les guides de Cauterets
+06 42 06 33 82
 
 - Ouverture des réservations mi avril
 - Groupe de 4 à 7 personnes
@@ -42,6 +43,9 @@ Si on est 5, ca fait 540€ au total: soit 108€/pers (total avec refuge + bouf
 Si on est 4, ca fait 480€ au total: soit 120€/pers (total avec refuge + bouffe: 189.5€/pers)
 
 ### Avec les guides de Luz
+05-62-92-33-47 / 06-80-60-92-28
 
 
-### Avec 
+### Avec accumpanyat experience
+07-86-87-04-93 / 06-80-56-78-31
+
