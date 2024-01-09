@@ -1,11 +1,13 @@
+# Topo
+
 L'équipe (ordonné par ordre croissant d'expérience de vie):
 - Fiona
 - Flora
 - Etienne
 - Guillaume
 - Thomas
-- Nathalie (à valider - peut être déjà sur une aventure sur le GR 10)
-- Philippe (à valider - peut être déjà sur une aventure sur le GR 10)
+- Nathalie (à valider - peut être déjà sur une autre aventure, le GR 10)
+- Philippe (à valider - peut être déjà sur une autre aventure, le GR 10)
 
 L'ascension se fait sur 2 jours:
 - 1 ere journée **en autonomie**: barrage d'Ossoue >  refuge de Baysselance
@@ -17,7 +19,7 @@ L'ascension se fait sur 2 jours:
 	- distance: 11.3 km
 	- Horaire: ~ 7 h
 
-Refuge de Baysselance:
+Le dodo au Refuge de Baysselance:
 - réservation en ligne: https://refugebayssellance.ffcam.fr/reservation.html
 - prix:
 	- nuit: 26.50€/pers
@@ -25,7 +27,11 @@ Refuge de Baysselance:
 	- petit-déjeuner: 9€/pers
 	- pique-nique: 12€/pers
 	- **total: 69.5€/pers**
-## Avec les guides de Cauterets
+
+# Les guides
+
+Y'a plusieurs entreprises qui proposent d'accompagner des groupes sur le glacier.
+### Avec les guides de Cauterets
 
 - Ouverture des réservations mi avril
 - Groupe de 4 à 7 personnes
@@ -34,3 +40,8 @@ Refuge de Baysselance:
 Si on est 7, ca fait 660€ au total: soit 95€/pers (total avec refuge + bouffe: 164.5€/pers)
 Si on est 5, ca fait 540€ au total: soit 108€/pers (total avec refuge + bouffe: 177.5€/pers)
 Si on est 4, ca fait 480€ au total: soit 120€/pers (total avec refuge + bouffe: 189.5€/pers)
+
+### Avec les guides de Luz
+
+
+### Avec 
