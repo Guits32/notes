@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "aa686f9d362fc339",
+        "id": "35db696c8a803e92",
         "type": "tabs",
         "children": [
           {
-            "id": "9acacb636e2d4227",
+            "id": "1903c422e8621d83",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "preso/Ascension vignemale.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "preso/Ascension vignemale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "preso/Ascension vignemale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "preso/Ascension vignemale.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9acacb636e2d4227",
+  "active": "1903c422e8621d83",
   "lastOpenFiles": [
     "preso/Ascension vignemale.md",
     "Informatique",
