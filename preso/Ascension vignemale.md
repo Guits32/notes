@@ -45,7 +45,8 @@ Si on est 4, ca fait 480€ au total: soit 120€/pers (total avec refuge + bouf
 ### Avec les guides de Luz
 05-62-92-33-47 / 06-80-60-92-28
 
+Message sur la boite voicak
 
-### Avec accumpanyat experience
-07-86-87-04-93 / 06-80-56-78-31
+### Avec Jean Louis Lechêne - guide de haute montagne
+06-88-71-90-77
 
