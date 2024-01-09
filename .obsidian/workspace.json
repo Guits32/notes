@@ -11,9 +11,11 @@
             "id": "c0e088e3c97fa8ee",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/dns_schema_home.png"
+                "file": "Informatique/Linux networking.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/dns_schema_home.png",
+                "file": "Informatique/Linux networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/dns_schema_home.png",
+                "file": "Informatique/Linux networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/dns_schema_home.png"
+                "file": "Informatique/Linux networking.md"
               }
             }
           }
@@ -146,13 +148,13 @@
   },
   "active": "c0e088e3c97fa8ee",
   "lastOpenFiles": [
+    "assets/dns_schema_home.png",
     "Linux networking.md",
     "Informatique/Openssl.md",
     "Informatique/Make bootable usb.md",
     "Informatique/Linux networking.md",
     "Informatique/Home setup.md",
     "Informatique",
-    "assets/dns_schema_home.png",
     "preso/Home setup.md",
     "assets/dns_schema_home.excalidraw",
     "assets",

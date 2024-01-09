@@ -46,3 +46,25 @@ Voir ou éditer la configuration de l'ordre des résolutions dns de l'hôte:
 ```
 cat /etc/nsswitch.conf
 ```
+
+### Network namespaces
+
+Lister les namespace de l'hôte:
+ ```
+ ip netns
+ ```
+
+Créer un namespace sur l'hôte:
+```
+ip netns add red
+```
+
+Exécuter la commande `ip` dans un namespace:
+```
+ip -n red link
+```
+
+Exécuter la commande `arp` dans un namespace:
+```
+ip -n red arp
+```
