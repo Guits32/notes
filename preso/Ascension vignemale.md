@@ -1,3 +1,10 @@
+L'équipe (ordonné par expérience de vie):
+- Philippe
+- Nathalie
+- Thomas
+- Guillaume
+- Etienne
+
 Refuge de baysselance:
 - réservation en ligne: https://refugebayssellance.ffcam.fr/reservation.html
 - prix:
@@ -13,11 +20,14 @@ Refuge de baysselance:
 - Groupe de 4 à 7 presonnes
 - Prix de base 480 €/pers (groupe de 4) + 60 €/pers
 - L'ascension se fait sur 2 jours:
-	- 1 ere journée en autonomie: barrage d'ossoue >  refuge de Baysselance
+	- 1 ere journée **en autonomie**: barrage d'ossoue >  refuge de Baysselance
 		- denivelé: +830m
 		- distance: 11km
-		- Horaire: 
-	- 2 eme journée avec le guide (~7 heure de marche): refuge de Baysselance > Pic Longue > barrage d'ossoue
+		- Horaire: 2h30 ~ 3h00
+	- 2 eme journée **avec le guide** (~7 heure de marche): refuge de Baysselance > Pic Longue > barrage d'ossoue
+		- dénivelé: +912m
+		- distance: 11.3 km
+		- Horaire: ~ 7h
 
 Si on est 7, ca fait 660€ au total: soit 95€/pers (total avec refuge: 164.5€/pers)
 Si on est 5, ca fait 540€ au total: soit 108€/pers (total avec refuge: 177.5€/pers)
