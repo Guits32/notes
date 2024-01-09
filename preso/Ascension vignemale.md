@@ -32,7 +32,7 @@ Le dodo au Refuge de Baysselance:
 
 Y'a plusieurs entreprises qui proposent d'accompagner des groupes sur le glacier.
 ### Avec les guides de Cauterets
-06 42 06 33 82
+06-42-06-33-82
 
 - Ouverture des réservations mi avril
 - Groupe de 4 à 7 personnes
