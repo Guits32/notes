@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "preso/Home setup.md",
+                "file": "preso/Ascension vignemale.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "preso/Home setup.md",
+                "file": "preso/Ascension vignemale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "preso/Home setup.md",
+                "file": "preso/Ascension vignemale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "preso/Home setup.md"
+                "file": "preso/Ascension vignemale.md"
               }
             }
           }
@@ -146,14 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a4b86ba966209a9",
+  "active": "ea1f7fa6f97e038d",
   "lastOpenFiles": [
+    "Informatique",
+    "Informatique/Home setup.md",
+    "preso/Ascension vignemale.md",
     "conflict-files-obsidian-git.md",
-    "preso/Home setup.md",
     "assets/dns_schema_home.png",
-    "Make bootable usb.md",
-    "Openssl.md",
-    "Linux networking.md",
+    "Informatique/Make bootable usb.md",
+    "Informatique/Openssl.md",
+    "Informatique/Linux networking.md",
     "home/Proxmox.md",
     "preso",
     "assets/dns_schema_home.excalidraw",
