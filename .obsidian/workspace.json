@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "35db696c8a803e92",
+        "id": "02db29bc50a80b27",
         "type": "tabs",
         "children": [
           {
-            "id": "1903c422e8621d83",
+            "id": "c0e088e3c97fa8ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "assets/dns_schema_home.png"
+              }
             }
           }
         ]
@@ -65,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 222.5
   },
   "right": {
     "id": "485c8b337ba09699",
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "assets/dns_schema_home.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "assets/dns_schema_home.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "assets/dns_schema_home.png"
+              }
             }
           }
         ]
@@ -138,21 +144,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1903c422e8621d83",
+  "active": "c0e088e3c97fa8ee",
   "lastOpenFiles": [
-    "preso/Ascension vignemale.md",
-    "Informatique",
-    "Informatique/Home setup.md",
-    "conflict-files-obsidian-git.md",
-    "assets/dns_schema_home.png",
-    "Informatique/Make bootable usb.md",
+    "Linux networking.md",
     "Informatique/Openssl.md",
+    "Informatique/Make bootable usb.md",
     "Informatique/Linux networking.md",
-    "home/Proxmox.md",
-    "preso",
+    "Informatique/Home setup.md",
+    "Informatique",
+    "assets/dns_schema_home.png",
+    "preso/Home setup.md",
     "assets/dns_schema_home.excalidraw",
     "assets",
-    "home",
+    "Make bootable usb.md",
+    "Openssl.md",
+    "preso",
     "Achat pc portable.md"
   ]
 }
