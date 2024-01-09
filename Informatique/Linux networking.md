@@ -66,10 +66,10 @@ ip -n red link
 
 Exécuter la commande `arp` dans un namespace:
 ```
-ip -n red arp
+ip netns exec red arp
 ```
 
 Exécuter la commande `route` dans un namespace:
 ```
-ip -n red route
+ip netns exec red route
 ```
