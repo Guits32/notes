@@ -50,4 +50,6 @@ Message sur la boite vocale
 ### Avec Jean Louis Lechêne - guide de haute montagne
 06-88-71-90-77
 
-Message sur la boite vocale
+- Groupe de 4 à 8 personnes
+- Réservation ouverte
+- Prix
