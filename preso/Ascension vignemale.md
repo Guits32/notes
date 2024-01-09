@@ -5,7 +5,7 @@ Refuge de baysselance:
 	- repas du soir: 22€/pers
 	- petit-déjeuner: 9€/pers
 	- pique-nique: 12€/pers
-	- **total: **
+	- **total: *69.5*
 ## Avec les guides de Cauterets
 
 - Ouverture des réservations mi avril
