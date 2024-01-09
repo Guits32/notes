@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "02db29bc50a80b27",
+        "id": "2247f27ff60c39f2",
         "type": "tabs",
         "children": [
           {
-            "id": "c0e088e3c97fa8ee",
+            "id": "6a4b86ba966209a9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/dns_schema_home.png"
+                "file": "preso/Home setup.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 300
   },
   "right": {
     "id": "485c8b337ba09699",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/dns_schema_home.png",
+                "file": "preso/Home setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/dns_schema_home.png",
+                "file": "preso/Home setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/dns_schema_home.png"
+                "file": "preso/Home setup.md"
               }
             }
           }
@@ -144,16 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea1f7fa6f97e038d",
+  "active": "6a4b86ba966209a9",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "preso/Home setup.md",
-    "assets/dns_schema_home.excalidraw",
     "assets/dns_schema_home.png",
-    "assets",
-    "Linux networking.md",
     "Make bootable usb.md",
     "Openssl.md",
+    "Linux networking.md",
+    "home/Proxmox.md",
     "preso",
+    "assets/dns_schema_home.excalidraw",
+    "assets",
+    "home",
     "Achat pc portable.md"
   ]
 }
