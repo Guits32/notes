@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Informatique/Linux networking.md",
+=======
+                "file": "preso/Bouquin.md",
+>>>>>>> b259a01 (vault backup: 10-01-2024 - 11:40)
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Informatique/Linux networking.md",
+=======
+                "file": "preso/Bouquin.md",
+>>>>>>> b259a01 (vault backup: 10-01-2024 - 11:40)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Informatique/Linux networking.md",
+=======
+                "file": "preso/Bouquin.md",
+>>>>>>> b259a01 (vault backup: 10-01-2024 - 11:40)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Informatique/Linux networking.md"
+=======
+                "file": "preso/Bouquin.md"
+>>>>>>> b259a01 (vault backup: 10-01-2024 - 11:40)
               }
             }
           }
