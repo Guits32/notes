@@ -1,26 +1,18 @@
 {
   "main": {
-    "id": "c5675b1e2cdab375",
+    "id": "1a6ff2e8cba0bfe4",
     "type": "split",
     "children": [
       {
-        "id": "02db29bc50a80b27",
+        "id": "55a374e63bdcb5d7",
         "type": "tabs",
         "children": [
           {
-            "id": "c0e088e3c97fa8ee",
+            "id": "df02368e82207f3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "Informatique/Linux networking.md",
-=======
-                "file": "preso/Bouquin.md",
->>>>>>> b259a01 (vault backup: 10-01-2024 - 11:40)
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -29,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6fb852d1d708d171",
+    "id": "4611f607dc087a99",
     "type": "split",
     "children": [
       {
-        "id": "0df4f05bb623aff9",
+        "id": "e6bdb21218a107f7",
         "type": "tabs",
         "children": [
           {
-            "id": "ea1f7fa6f97e038d",
+            "id": "9a5adb3531eeb3b2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +39,7 @@
             }
           },
           {
-            "id": "acf1ca9090589483",
+            "id": "5b8d6c089d666ac7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,7 +54,7 @@
             }
           },
           {
-            "id": "63f65613d69c0c6e",
+            "id": "7309ba80d0470ea3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,27 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 300
   },
   "right": {
-    "id": "485c8b337ba09699",
+    "id": "dcd459b570a7f20d",
     "type": "split",
     "children": [
       {
-        "id": "3d9c657559cadad5",
+        "id": "65ac8a55d391df01",
         "type": "tabs",
         "children": [
           {
-            "id": "fea51176f73805f2",
+            "id": "6ad614b30d4e95ca",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Informatique/Linux networking.md",
-=======
-                "file": "preso/Bouquin.md",
->>>>>>> b259a01 (vault backup: 10-01-2024 - 11:40)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,23 +92,18 @@
             }
           },
           {
-            "id": "822a0fa78d61cf31",
+            "id": "cc17af5b49e82e13",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Informatique/Linux networking.md",
-=======
-                "file": "preso/Bouquin.md",
->>>>>>> b259a01 (vault backup: 10-01-2024 - 11:40)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "78f9a00e8ceb1fd8",
+            "id": "d33bf8913e0e2e36",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,17 +114,11 @@
             }
           },
           {
-            "id": "426395fce4378bc3",
+            "id": "a8850031b80ce073",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "Informatique/Linux networking.md"
-=======
-                "file": "preso/Bouquin.md"
->>>>>>> b259a01 (vault backup: 10-01-2024 - 11:40)
-              }
+              "state": {}
             }
           }
         ]
@@ -162,21 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0e088e3c97fa8ee",
-  "lastOpenFiles": [
-    "assets/dns_schema_home.png",
-    "Linux networking.md",
-    "Informatique/Openssl.md",
-    "Informatique/Make bootable usb.md",
-    "Informatique/Linux networking.md",
-    "Informatique/Home setup.md",
-    "Informatique",
-    "preso/Home setup.md",
-    "assets/dns_schema_home.excalidraw",
-    "assets",
-    "Make bootable usb.md",
-    "Openssl.md",
-    "preso",
-    "Achat pc portable.md"
-  ]
+  "active": "df02368e82207f3b",
+  "lastOpenFiles": []
 }
