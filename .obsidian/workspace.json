@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dcd459b570a7f20d",
@@ -146,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a5adb3531eeb3b2",
+  "active": "df02368e82207f3b",
   "lastOpenFiles": [
     "preso/grande_voie.md",
     "preso/Préparer les aventures.md"
