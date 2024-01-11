@@ -16,4 +16,10 @@ Appeler l'office du tourisme (ou autre dans le meme style) pour connaitre bonne 
 Voir sur https://skitour.fr/topos/ pour trouver une randonnée qui nous va bien. 
 Les cotation sont expliquées ici: https://www.cafchambery.com/article/cotation-pour-le-ski-alpinisme-726.html?commission=ski-alpinisme 
 
-### Randonnée sous la neige - Flora
+### Randonnée sur la neige - Flora
+
+Prévoir le circuit de randonnée
+
+### Bivouaquer dans une bergerie non gardée -Guillaume
+
+Trouver des infos sur les bergeries dans les Pyrénées Française.
