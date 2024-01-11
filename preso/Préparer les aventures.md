@@ -14,10 +14,6 @@ Appeler l'office du tourisme (ou autre dans le meme style) pour connaitre bonne 
 ### Ski de randonnée - Flora
 
 Voir sur https://skitour.fr/topos/ pour trouver une randonnée qui nous va bien. 
-Les cotation sont expliquées ici: https://www.cafchambery.com/article/cotation-pour-le-ski-alpinisme-726.html?commission=ski-alpinisme
-
-### Gravir un 3000 dans les Pyrenees
-
-Le puig Carlit
+Les cotation sont expliquées ici: https://www.cafchambery.com/article/cotation-pour-le-ski-alpinisme-726.html?commission=ski-alpinisme 
 
 ### Randonnée sous la neige - Flora
