@@ -1,4 +1,7 @@
-### A prend
+### A prendre au vieux campeur
+
+- [ ] Des crampons
+- [ ] De quoi traiter l'eau
 
 ### La grande voie - Guillaume
 
