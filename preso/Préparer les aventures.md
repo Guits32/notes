@@ -25,6 +25,6 @@ Les cotation sont expliquées ici: https://www.cafchambery.com/article/cotation-
 
 Prévoir le circuit de randonnée
 
-### Bivouaquer dans une bergerie non gardée -Guillaume
+### Bivouaquer dans une bergerie non gardée - Guillaume
 
 Trouver des infos sur les bergeries dans les Pyrénées Française.

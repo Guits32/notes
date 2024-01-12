@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "55a374e63bdcb5d7",
+        "id": "3ea90776dde36bca",
         "type": "tabs",
         "children": [
           {
-            "id": "df02368e82207f3b",
+            "id": "14b70588b2a89caf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "preso/Préparer les aventures.md",
+                "file": "Informatique/Linux networking.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "preso/Préparer les aventures.md",
+                "file": "Informatique/Linux networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "preso/Préparer les aventures.md",
+                "file": "Informatique/Linux networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "preso/Préparer les aventures.md"
+                "file": "Informatique/Linux networking.md"
               }
             }
           }
@@ -147,9 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df02368e82207f3b",
+  "active": "14b70588b2a89caf",
   "lastOpenFiles": [
-    "preso/grande_voie.md",
-    "preso/Préparer les aventures.md"
+    "preso/Préparer les aventures.md",
+    "preso/grande_voie.md"
   ]
 }
