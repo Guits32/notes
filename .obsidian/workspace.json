@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "76aed26cd3767710",
+        "id": "0245fcf5d4fe3a0c",
         "type": "tabs",
         "children": [
           {
-            "id": "01da1617f1c7c41e",
+            "id": "d3d3c8ed3dc53556",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01da1617f1c7c41e",
+  "active": "d3d3c8ed3dc53556",
   "lastOpenFiles": [
+    "assets/dns_schema_home.png",
     "conflict-files-obsidian-git.md",
     "preso/Préparer les aventures.md"
   ]
