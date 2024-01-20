@@ -3,7 +3,7 @@ Lister les namespace de l'hôte:
  ip netns
  ```
 
-Créer un namespace sur l'hôte:
+(éphémère) - Créer un namespace sur l'hôte:
 ```
 ip netns add red
 ```
