@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "0c5c3dff32127f36",
+    "id": "1a6ff2e8cba0bfe4",
     "type": "split",
     "children": [
       {
-        "id": "6a593561e7882eac",
+        "id": "47b1dbb3b72f484b",
         "type": "tabs",
         "children": [
           {
-            "id": "aedefdb6b79b8bc6",
+            "id": "2baf601cbffdcce3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Informatique/Linux networking/DNS resolution.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "83025b2620724ee1",
+    "id": "4611f607dc087a99",
     "type": "split",
     "children": [
       {
-        "id": "414ee73e41d24b98",
+        "id": "e6bdb21218a107f7",
         "type": "tabs",
         "children": [
           {
-            "id": "5dc1f2d65a956023",
+            "id": "9a5adb3531eeb3b2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "c9dd69cb555e1c92",
+            "id": "5b8d6c089d666ac7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "d4c19c306e9e50dc",
+            "id": "7309ba80d0470ea3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "587e04f70e5abec8",
+    "id": "dcd459b570a7f20d",
     "type": "split",
     "children": [
       {
-        "id": "6ae0adbc0dcac74e",
+        "id": "65ac8a55d391df01",
         "type": "tabs",
         "children": [
           {
-            "id": "abef19a6e14d91b9",
+            "id": "6ad614b30d4e95ca",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Informatique/Linux networking/DNS resolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "56297aaac050b9eb",
+            "id": "cc17af5b49e82e13",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Informatique/Linux networking/DNS resolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "185fb3993e08bff0",
+            "id": "d33bf8913e0e2e36",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "266017d90f50ed01",
+            "id": "a8850031b80ce073",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Informatique/Linux networking/DNS resolution.md"
+              }
             }
           }
         ]
@@ -138,11 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aedefdb6b79b8bc6",
+  "active": "2baf601cbffdcce3",
   "lastOpenFiles": [
+    "Informatique/Linux networking/Network interface.md",
+    "Informatique/Linux networking/Network namespace.md",
+    "Informatique/Linux networking/DNS resolution.md",
+    "Informatique/Linux networking",
+    "Informatique/Linux networking/iptables.md",
     "Untitled.md",
-    "assets/dns_schema_home.png",
-    "conflict-files-obsidian-git.md",
-    "preso/Préparer les aventures.md"
+    "Informatique/Linux networking.md",
+    "Informatique/Linux networking/Route table.md",
+    "preso/Préparer les aventures.md",
+    "preso/grande_voie.md"
   ]
 }
