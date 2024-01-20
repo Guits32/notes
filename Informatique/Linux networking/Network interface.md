@@ -15,18 +15,3 @@ ip a
 ip addr add 192.168.1.10/24 dev eth0
 ```
 
-Afficher la table de routage de l'hôte:
-```
-route
-```
-
-Ajouter une entrée dans la table de routage
-```
-ip route add 192.168.1.0/24 via 192.168.2.1
-```
-
-Vérifier si l'ip forwarding est activer sur hôte:
-```
-cat /proc/sys/net/ipv4/ip_forward
-```
-
