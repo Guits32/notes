@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3d66deff5bc61428",
+        "id": "46fc3bc0debef63a",
         "type": "tabs",
         "children": [
           {
-            "id": "d37888466c385ce1",
+            "id": "fb081254c53b7af4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d37888466c385ce1",
+  "active": "fb081254c53b7af4",
   "lastOpenFiles": [
+    "Informatique/Home setup.md",
     "conflict-files-obsidian-git.md",
     "Informatique/Linux networking.md",
     "Informatique/Linux networking/iptables.md",
