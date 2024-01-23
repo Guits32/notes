@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "1a6ff2e8cba0bfe4",
+    "id": "0c5c3dff32127f36",
     "type": "split",
     "children": [
       {
-        "id": "a7c51dfdfc659150",
+        "id": "43652948a4621586",
         "type": "tabs",
         "children": [
           {
-            "id": "93cd2899a8195406",
+            "id": "1d59243f3be1c9d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatique/Home setup.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4611f607dc087a99",
+    "id": "83025b2620724ee1",
     "type": "split",
     "children": [
       {
-        "id": "e6bdb21218a107f7",
+        "id": "414ee73e41d24b98",
         "type": "tabs",
         "children": [
           {
-            "id": "9a5adb3531eeb3b2",
+            "id": "5dc1f2d65a956023",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "5b8d6c089d666ac7",
+            "id": "c9dd69cb555e1c92",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "7309ba80d0470ea3",
+            "id": "d4c19c306e9e50dc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "dcd459b570a7f20d",
+    "id": "587e04f70e5abec8",
     "type": "split",
     "children": [
       {
-        "id": "65ac8a55d391df01",
+        "id": "6ae0adbc0dcac74e",
         "type": "tabs",
         "children": [
           {
-            "id": "6ad614b30d4e95ca",
+            "id": "abef19a6e14d91b9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatique/Home setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "cc17af5b49e82e13",
+            "id": "56297aaac050b9eb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatique/Home setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d33bf8913e0e2e36",
+            "id": "185fb3993e08bff0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "a8850031b80ce073",
+            "id": "266017d90f50ed01",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Informatique/Home setup.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,25 +138,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93cd2899a8195406",
+  "active": "1d59243f3be1c9d2",
   "lastOpenFiles": [
-    "Perso/Ascension vignemale.md",
-    "Perso/Bouquin.md",
+    "conflict-files-obsidian-git.md",
+    "Untitled.md",
     "Perso/Préparer les aventures.md",
-    "Informatique/Openssl.md",
-    "Informatique/Linux networking/DNS resolution.md",
+    "Perso/Bouquin.md",
+    "Perso/Ascension vignemale.md",
     "Perso",
-    "Informatique/Linux networking/Général.md",
+    "Informatique/Home setup.md",
+    "Informatique/Linux networking.md",
     "Informatique/Linux networking/iptables.md",
+    "Informatique/Linux networking/Route table.md",
     "Informatique/Linux networking/Network interface.md",
     "Informatique/Linux networking/Network namespace.md",
-    "Informatique/Linux networking/Route table.md",
-    "Informatique/Make bootable usb.md",
-    "Informatique/Home setup.md",
+    "Informatique/Linux networking/Général.md",
+    "Informatique/Linux networking/DNS resolution.md",
     "Informatique/Linux networking",
-    "Untitled.md",
-    "Informatique/Linux networking.md",
-    "preso/Préparer les aventures.md",
-    "preso/grande_voie.md"
+    "assets/dns_schema_home.png",
+    "preso/Préparer les aventures.md"
   ]
 }
