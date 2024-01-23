@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatique/Linux networking/DNS resolution.md",
+                "file": "Informatique/Home setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatique/Linux networking/DNS resolution.md",
+                "file": "Informatique/Home setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatique/Linux networking/DNS resolution.md",
+                "file": "Informatique/Home setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatique/Linux networking/DNS resolution.md"
+                "file": "Informatique/Home setup.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "93cd2899a8195406",
   "lastOpenFiles": [
-    "Perso/Préparer les aventures.md",
-    "Perso/Bouquin.md",
     "Perso/Ascension vignemale.md",
+    "Perso/Bouquin.md",
+    "Perso/Préparer les aventures.md",
+    "Informatique/Openssl.md",
+    "Informatique/Linux networking/DNS resolution.md",
     "Perso",
     "Informatique/Linux networking/Général.md",
     "Informatique/Linux networking/iptables.md",
@@ -159,7 +161,6 @@
     "Informatique/Linux networking/Route table.md",
     "Informatique/Make bootable usb.md",
     "Informatique/Home setup.md",
-    "Informatique/Linux networking/DNS resolution.md",
     "Informatique/Linux networking",
     "Untitled.md",
     "Informatique/Linux networking.md",
