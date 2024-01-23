@@ -8,7 +8,11 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "1d59243f3be1c9d2",
+=======
+            "id": "fdd76295fddd4eac",
+>>>>>>> a42aecb (vault backup: 23-01-2024 - 21:08)
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "587e04f70e5abec8",
@@ -138,10 +143,18 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "1d59243f3be1c9d2",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Untitled.md",
+=======
+  "active": "fdd76295fddd4eac",
+  "lastOpenFiles": [
+    "Informatique/Home setup.md",
+    "Perso/Ascension vignemale.md",
+    "Perso/Bouquin.md",
+>>>>>>> a42aecb (vault backup: 23-01-2024 - 21:08)
     "Perso/Préparer les aventures.md",
     "Perso/Bouquin.md",
     "Perso/Ascension vignemale.md",
@@ -152,8 +165,13 @@
     "Informatique/Linux networking/Route table.md",
     "Informatique/Linux networking/Network interface.md",
     "Informatique/Linux networking/Network namespace.md",
+<<<<<<< HEAD
     "Informatique/Linux networking/Général.md",
     "Informatique/Linux networking/DNS resolution.md",
+=======
+    "Informatique/Linux networking/Route table.md",
+    "Informatique/Make bootable usb.md",
+>>>>>>> a42aecb (vault backup: 23-01-2024 - 21:08)
     "Informatique/Linux networking",
     "assets/dns_schema_home.png",
     "preso/Préparer les aventures.md"

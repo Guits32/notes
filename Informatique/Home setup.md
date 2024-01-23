@@ -10,7 +10,7 @@ https://blog.zwindler.fr/2020/03/02/deploiement-de-proxmox-ve-6-pfsense-sur-un-s
 Étape suivantes:
 
 - Mettre en place un serveur DNS
-- Mettre en place un VPN 
+- Mettre en place u n VPN 
 - Mettre en place un DNS dynamique 
 - Mettre en place un serveur de mail
 - Configurer le postfix de la VM proxmox pour qu'il envoie des mails sur le serveur de mail configuré
