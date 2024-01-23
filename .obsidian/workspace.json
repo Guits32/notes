@@ -1,18 +1,14 @@
 {
   "main": {
-    "id": "0c5c3dff32127f36",
+    "id": "f2193d438136e0c0",
     "type": "split",
     "children": [
       {
-        "id": "43652948a4621586",
+        "id": "1ca51cad21e60b57",
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
-            "id": "1d59243f3be1c9d2",
-=======
-            "id": "fdd76295fddd4eac",
->>>>>>> a42aecb (vault backup: 23-01-2024 - 21:08)
+            "id": "e84b119b501b8e95",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "83025b2620724ee1",
+    "id": "d5bfbb25a7f73b88",
     "type": "split",
     "children": [
       {
-        "id": "414ee73e41d24b98",
+        "id": "dd8deaf2dec5802a",
         "type": "tabs",
         "children": [
           {
-            "id": "5dc1f2d65a956023",
+            "id": "f727f8bab53ea643",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "c9dd69cb555e1c92",
+            "id": "ecb016b44c204b0b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "d4c19c306e9e50dc",
+            "id": "5e17324060eab49a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,19 +65,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "587e04f70e5abec8",
+    "id": "74f5274e7bdd818e",
     "type": "split",
     "children": [
       {
-        "id": "6ae0adbc0dcac74e",
+        "id": "123c9e350e8ee59b",
         "type": "tabs",
         "children": [
           {
-            "id": "abef19a6e14d91b9",
+            "id": "275c8c4d3693263c",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +92,7 @@
             }
           },
           {
-            "id": "56297aaac050b9eb",
+            "id": "493c46b3cffce582",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -108,7 +103,7 @@
             }
           },
           {
-            "id": "185fb3993e08bff0",
+            "id": "9cf01089cd644a69",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -119,7 +114,7 @@
             }
           },
           {
-            "id": "266017d90f50ed01",
+            "id": "438eaccc9c764e38",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -143,37 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "1d59243f3be1c9d2",
-  "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Untitled.md",
-=======
-  "active": "fdd76295fddd4eac",
-  "lastOpenFiles": [
-    "Informatique/Home setup.md",
-    "Perso/Ascension vignemale.md",
-    "Perso/Bouquin.md",
->>>>>>> a42aecb (vault backup: 23-01-2024 - 21:08)
-    "Perso/Préparer les aventures.md",
-    "Perso/Bouquin.md",
-    "Perso/Ascension vignemale.md",
-    "Perso",
-    "Informatique/Home setup.md",
-    "Informatique/Linux networking.md",
-    "Informatique/Linux networking/iptables.md",
-    "Informatique/Linux networking/Route table.md",
-    "Informatique/Linux networking/Network interface.md",
-    "Informatique/Linux networking/Network namespace.md",
-<<<<<<< HEAD
-    "Informatique/Linux networking/Général.md",
-    "Informatique/Linux networking/DNS resolution.md",
-=======
-    "Informatique/Linux networking/Route table.md",
-    "Informatique/Make bootable usb.md",
->>>>>>> a42aecb (vault backup: 23-01-2024 - 21:08)
-    "Informatique/Linux networking",
-    "assets/dns_schema_home.png",
-    "preso/Préparer les aventures.md"
-  ]
+  "active": "e84b119b501b8e95",
+  "lastOpenFiles": []
 }
