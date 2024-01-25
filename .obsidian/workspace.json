@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9171527c4211f52f",
+        "id": "58b4c7257f430b93",
         "type": "tabs",
         "children": [
           {
-            "id": "85a43c1cfb1bfd2f",
+            "id": "3824a2cf466d7e62",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,16 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85a43c1cfb1bfd2f",
+  "active": "3824a2cf466d7e62",
   "lastOpenFiles": [
-    "Perso/Simon setup/Stockage.md",
+    "Perso/Informatique/Home setup.md",
+    "Perso/Informatique/Simon setup/Stockage.md",
+    "Perso/Informatique",
     "assets/dns_schema_home.png",
     "assets/backup_simon.png",
     "assets/backup-server_simon.excalidraw",
     "assets/Unconfirmed 865873.crdownload",
     "conflict-files-obsidian-git.md",
-    "Informatique/Home setup.md",
-    "Perso/Simon setup",
+    "Perso/Informatique/Simon setup",
     "Untitled.md",
     "Perso/Préparer les aventures.md",
     "Perso/Bouquin.md",
