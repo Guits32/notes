@@ -14,9 +14,15 @@ Logiciel de dédup:
 #### Hardware
 
 Pour le serveur (`backup-server` sur le schéma) qui va être responsable du backup:
-- pour les connectiques:
-	- option la plus performantes: 2 ports SATA  III
-	- 
+- pour les connectiques sur la carte mère:
+	- option la plus performantes (mais surement overkill): 2 ports SATA  III
+	- option valables:
+		- 2 ports SATA II
+		- 2 ports SATA I
+		- 2 ports usb 3 dédiés aux DD
+	- options a exclure:
+		- 
+	
 
 #### Schéma
 
