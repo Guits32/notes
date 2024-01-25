@@ -15,6 +15,9 @@ Logiciel de dédup:
 
 Pour le serveur (`backup-server` sur le schéma) qui va être responsable du backup:
 - pour les connectiques sur la carte mère:
+	- doc de perf:
+		- sata [ici](https://support-fr.wd.com/app/answers/detailweb/a_id/39798/~/diff%C3%A9rence-entre-sata-i%2C-sata-ii-et-sata-iii)
+		- usb [ici](https://tripplite.eaton.com/products/usb-connectivity-types-standards#usb-standards)
 	- option la plus performantes (mais surement overkill): 2 ports SATA  III
 	- option valables:
 		- 2 ports SATA II
