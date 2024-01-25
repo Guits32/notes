@@ -4,7 +4,7 @@ Deux options:
 
 ### Dedup des disques actuels
 
-Logiciel de dédup: 
+Logiciel de dedup: 
 - à mon avis la meilleure option - [Duplicate File Finder](https://www.auslogics.com/en/software/duplicate-file-finder/)
 - autre bonne option je pense - [Cuplicate Cleaner](https://www.pcastuces.com/logitheque/duplicate_cleaner.htm)
 - sinon voir dans ces logiciels [là](https://www.ionos.com/digitalguide/server/know-how/finding-duplicate-files-in-windows/) 
@@ -23,9 +23,14 @@ Pour le serveur (`backup-server` sur le schéma) qui va être responsable du bac
 		- 2 ports SATA II
 		- 2 ports SATA I
 		- 2 ports usb 3 dédiés aux DD
-	- options a exclure:
+	- options à exclure:
 		- partager une connectique pour les 2 DD
-- pour la RAM 
+- pour la RAM:
+	- option optimale >= 8GB
+	- option acceptable: 4GB
+	- option non valable < 4GB
+- pour le CPU
+	- 2/4 cores
 
 #### Schéma
 
