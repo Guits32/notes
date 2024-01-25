@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8a06a4e347be4121",
+        "id": "9171527c4211f52f",
         "type": "tabs",
         "children": [
           {
-            "id": "8b4d4d8e425e0f2d",
+            "id": "85a43c1cfb1bfd2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Perso/Simon setup/Stockage.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Perso/Simon setup/Stockage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Perso/Simon setup/Stockage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Perso/Simon setup/Stockage.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5dc1f2d65a956023",
+  "active": "85a43c1cfb1bfd2f",
   "lastOpenFiles": [
     "Perso/Simon setup/Stockage.md",
     "assets/dns_schema_home.png",

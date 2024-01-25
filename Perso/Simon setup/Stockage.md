@@ -31,6 +31,7 @@ Pour le serveur (`backup-server` sur le schéma) qui va être responsable du bac
 	- option non valable < 4GB
 - pour le CPU
 	- 2/4 cores
+	- base frequency >= 1.5GHz
 
 #### Schéma
 
