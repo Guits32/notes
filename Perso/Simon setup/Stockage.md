@@ -21,8 +21,8 @@ Pour le serveur (`backup-server` sur le schéma) qui va être responsable du bac
 		- 2 ports SATA I
 		- 2 ports usb 3 dédiés aux DD
 	- options a exclure:
-		- 
-	
+		- partager une connectique pour les 2 DD
+- pour la RAM 
 
 #### Schéma
 
