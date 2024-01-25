@@ -9,11 +9,16 @@ Logiciel de dédup:
 - autre bonne option je pense - [Cuplicate Cleaner](https://www.pcastuces.com/logitheque/duplicate_cleaner.htm)
 - sinon voir dans ces logiciels [là](https://www.ionos.com/digitalguide/server/know-how/finding-duplicate-files-in-windows/) 
 
-### Hardware
-
-Pour le système qui va s'occuper 
-
 ### Système de backup
+
+#### Hardware
+
+Pour le serveur (`backup-server` sur le schéma) qui va être responsable du backup:
+- pour les connectiques:
+	- option la plus performantes: 2 ports SATA  III
+	- 
+
+#### Schéma
 
 ![[backup_simon.png]]
 
