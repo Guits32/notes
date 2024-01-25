@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1ca51cad21e60b57",
+        "id": "73428a36e6d3f074",
         "type": "tabs",
         "children": [
           {
-            "id": "e84b119b501b8e95",
+            "id": "c3d8f4a7334bc33b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "74f5274e7bdd818e",
@@ -138,7 +139,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e84b119b501b8e95",
+  "active": "c3d8f4a7334bc33b",
   "lastOpenFiles": [
     "assets/backup_simon.png",
     "assets/backup-server_simon.excalidraw",
