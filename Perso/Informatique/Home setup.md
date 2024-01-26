@@ -21,14 +21,8 @@ Le DNS dynamique va permettre de mapper une IP dynamique (celle de la box) sur u
 
 **Ca devient intéressant à partir du moment où j'aurai installé un VPN. Tant que je n'ai pas de VPN, aucun intérêt à faciliter l'accès au réseau local.**
 
-A voir si scaleway propose une offre de dynDNS, sinon il existe des offres gratuites en ligne.
-## Mise en place du serveur mail
+A voir si scaleway propose une offre de dynDNS (ticket [ici](https://console.scaleway.com/support/tickets/500W5000000u34sIAA)), sinon il existe des offres gratuites en ligne (liste comparative [ici](https://www.ionos.com/digitalguide/server/tools/free-dynamic-dns-providers-an-overview/)). Et sinon OVH propose ça en plus d'un relais mail, donc peut être à voir.
 
-Pour pouvoir mettre en place en place le serveur mail sur le proxmox, il faut que la VM soit exposé sur le NET a priori. Ce tutoriel semble pas mal: https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-as-a-send-only-smtp-server-on-ubuntu-22-04
+#### Mise en place d'un VPN
 
-Je pense également que pour utiliser le protocole 587 et être en mode "sécurisé" il faut mettre en place un certificat tls qui sera utilisé par le postfix.
-
-Pour la VM de mail les specs hardware nécessaire (avec un debian server):
-- disk: 3 GB
-- RAM: 512 MB
-- CPU: 1 thread
+Rien regardé pour le moment
