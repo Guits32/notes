@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatique/Linux networking/Network namespace.md",
+                "file": "Perso/Informatique/Home setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "74f5274e7bdd818e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatique/Linux networking/Network namespace.md",
+                "file": "Perso/Informatique/Home setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatique/Linux networking/Network namespace.md",
+                "file": "Perso/Informatique/Home setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatique/Linux networking/Network namespace.md"
+                "file": "Perso/Informatique/Home setup.md"
               }
             }
           }
@@ -148,10 +149,10 @@
   },
   "active": "c3d8f4a7334bc33b",
   "lastOpenFiles": [
+    "Informatique/Linux networking/Network namespace.md",
     "assets/pfSense-CE-2.7.2-RELEASE-amd64.iso.gz",
     "assets/Unconfirmed 644004.crdownload",
     "Informatique/Linux networking/Network interface.md",
-    "Informatique/Linux networking/Network namespace.md",
     "Informatique/Linux networking/iptables.md",
     "Informatique/Linux networking/Général.md",
     "Informatique/Linux networking/DNS resolution.md",
