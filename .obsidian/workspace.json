@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "74f5274e7bdd818e",
@@ -148,9 +147,15 @@
   },
   "active": "e62fd3709d557f33",
   "lastOpenFiles": [
+    "Informatique/Linux networking/Route table.md",
+    "Informatique/Make bootable usb.md",
+    "Informatique/Linux networking/Général.md",
+    "Informatique/Linux networking/iptables.md",
+    "Informatique/Linux networking/Network namespace.md",
+    "Informatique/Linux networking/Network interface.md",
+    "assets/kube_the_hard_way.excalidraw",
     "assets/backup-server_simon.excalidraw",
     "assets/dns_schema_home.excalidraw",
-    "assets/kube_the_hard_way.excalidraw",
     "assets/backup_simon.png",
     "Perso/Informatique/Simon setup/Stockage.md",
     "Perso/Informatique/Home setup.md",
@@ -159,14 +164,8 @@
     "dns_setup.excalidraw",
     "assets/Unconfirmed 291164.crdownload",
     "assets/Unconfirmed 55789.crdownload",
-    "Informatique/Make bootable usb.md",
-    "Informatique/Linux networking/Route table.md",
     "Informatique/Openssl.md",
     "Informatique/Linux networking/DNS resolution.md",
-    "Informatique/Linux networking/Général.md",
-    "Informatique/Linux networking/iptables.md",
-    "Informatique/Linux networking/Network interface.md",
-    "Informatique/Linux networking/Network namespace.md",
     "Perso/Préparer les aventures.md",
     "Perso/Bouquin.md",
     "Perso/Ascension vignemale.md",
