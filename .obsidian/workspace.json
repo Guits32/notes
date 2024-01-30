@@ -11,8 +11,10 @@
             "id": "e62fd3709d557f33",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "assets/kube_the_hard_way.excalidraw"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "assets/kube_the_hard_way.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "assets/kube_the_hard_way.excalidraw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "assets/kube_the_hard_way.excalidraw"
+              }
             }
           }
         ]
@@ -135,12 +141,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f727f8bab53ea643",
+  "active": "e62fd3709d557f33",
   "lastOpenFiles": [
-    "assets/dns_setup.excalidraw",
+    "assets/backup-server_simon.excalidraw",
+    "assets/dns_schema_home.excalidraw",
+    "dns_setup.excalidraw",
     "assets/Unconfirmed 291164.crdownload",
     "assets/Unconfirmed 55789.crdownload",
     "Informatique/Make bootable usb.md",
@@ -161,7 +170,6 @@
     "assets/kube_the_hard_way.excalidraw",
     "assets/Unconfirmed 393873.crdownload",
     "assets/backup_simon.png",
-    "assets/backup-server_simon.excalidraw",
     "Perso/Informatique/Simon setup",
     "Perso/Informatique"
   ]
