@@ -35,6 +35,8 @@ Pour le serveur (`backup-server` sur le schéma) qui va être responsable du bac
 
 #### Schéma
 
+[[assets/backup-server_simon.excalidraw]]
+
 ![[backup_simon.png]]
 
 
