@@ -1,20 +1,14 @@
-
-## Mise en place d'un Proxmox
+Le plan doit être construit en 2 parties:
+- mettre en place un firwall puis ouvrir la dmz de la box - voir les impacts
+- une fois valider que le 
+### Mise en place du PFSense
 
 Tuto proxmox + pfsense:
 
 Partie 1: [ici](https://blog.zwindler.fr/2020/03/02/deploiement-de-proxmox-ve-6-pfsense-sur-un-serveur-dedie/)
 Partie 2: [là](https://blog.zwindler.fr/2020/03/09/proxmox-ve-6-pfsense-sur-un-serveur-dedie-2-3)
 
-### Mise en place du PFSense
-
 Repoussé à plus tard, car plutôt complexe et pas le temps de monter en compétence sur tous les sujets en //.**n**
-### Setup d'un relay SMTP
-
-- [ ] une fois le nom de domaine transférable depuis domain.com vers scaleway, suivre ce tuto pour cabler le postfix du PVE vers un relais smtp - [tuto](https://www.scaleway.com/en/docs/tutorials/configure-smtp-relay-tem/)
-	- [ ] tester que le fail2ban envoit des mails en cas de trop nombre echec ssh - cf les règles définies [ici](https://blog.zwindler.fr/2020/03/02/deploiement-de-proxmox-ve-6-pfsense-sur-un-serveur-dedie/#le-serveur-ssh)
-	- [ ] tester que le fail2ban envoit des mails en cas de trop nombre echec de connexion à l'interface proxmox - cf les règles définies [ici](https://blog.zwindler.fr/2020/03/02/deploiement-de-proxmox-ve-6-pfsense-sur-un-serveur-dedie/#retour-sur-fail2ban)
-
 ### Mise en place d'un VPN
 
 #### Mise en place d'un dynamic DNS

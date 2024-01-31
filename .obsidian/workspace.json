@@ -11,9 +11,11 @@
             "id": "e62fd3709d557f33",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "assets/kube_the_hard_way.excalidraw"
+                "file": "Perso/Informatique/Simon setup/Remote access VPN.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "74f5274e7bdd818e",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/kube_the_hard_way.excalidraw",
+                "file": "Perso/Informatique/Simon setup/Remote access VPN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/kube_the_hard_way.excalidraw",
+                "file": "Perso/Informatique/Simon setup/Remote access VPN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/kube_the_hard_way.excalidraw"
+                "file": "Perso/Informatique/Simon setup/Remote access VPN.md"
               }
             }
           }
@@ -148,9 +149,13 @@
   },
   "active": "e62fd3709d557f33",
   "lastOpenFiles": [
+    "Perso/Informatique/Simon setup/Setup mail server.md",
+    "Perso/Informatique/Simon setup/Remote access VPN.md",
+    "Perso/Informatique/Home setup",
+    "assets/home_network.excalidraw",
+    "Perso/Informatique/Home network.md",
     "assets/dns_schema_home.excalidraw",
     "Informatique/Linux networking/Route table.md",
-    "assets/kube_the_hard_way.excalidraw",
     "Informatique/Linux networking/iptables.md",
     "Informatique/Linux networking/Général.md",
     "assets/backup-server_simon.excalidraw",
@@ -159,7 +164,6 @@
     "Informatique/Linux networking/Network interface.md",
     "assets/backup_simon.png",
     "Perso/Informatique/Simon setup/Stockage.md",
-    "Perso/Informatique/Home setup.md",
     "assets/dns_schema_home.png",
     "assets/Unconfirmed 869670.crdownload",
     "dns_setup.excalidraw",
@@ -171,7 +175,6 @@
     "Perso/Bouquin.md",
     "Perso/Ascension vignemale.md",
     "assets/pfSense-CE-2.7.2-RELEASE-amd64.iso.gz",
-    "assets/Unconfirmed 644004.crdownload",
-    "assets/Unconfirmed 393873.crdownload"
+    "assets/Unconfirmed 644004.crdownload"
   ]
 }
