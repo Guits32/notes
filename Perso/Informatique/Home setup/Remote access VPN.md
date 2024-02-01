@@ -1,6 +1,6 @@
 Le plan doit être construit en 2 parties:
 - mettre en place un firwall puis ouvrir la dmz de la box - voir les impacts
-- une fois valider que le 
+- une fois valider que le firewall est opérationnel, mise en place du VPN
 ### Mise en place du PFSense
 
 Tuto proxmox + pfsense:
