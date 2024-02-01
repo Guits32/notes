@@ -1368,8 +1368,8 @@
 		},
 		{
 			"type": "text",
-			"version": 568,
-			"versionNonce": 1500680150,
+			"version": 569,
+			"versionNonce": 547012874,
 			"isDeleted": false,
 			"id": "5oT6HU2p",
 			"fillStyle": "solid",
@@ -1382,7 +1382,7 @@
 			"y": -646.8024587896857,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 198.41890370490339,
+			"width": 198.33984375,
 			"height": 50.79523934845527,
 			"seed": 1240923078,
 			"groupIds": [
@@ -1392,7 +1392,7 @@
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706800799906,
+			"updated": 1706801360498,
 			"link": null,
 			"locked": false,
 			"fontSize": 42.329366123712724,
@@ -1404,7 +1404,7 @@
 			"containerId": null,
 			"originalText": "Internet",
 			"lineHeight": 1.2,
-			"baseline": 41.00000000000001
+			"baseline": 40
 		},
 		{
 			"type": "text",
@@ -1923,10 +1923,10 @@
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -498.80957733667424,
-		"scrollY": -367.0134281353975,
+		"scrollX": -133.4762440033403,
+		"scrollY": 995.7122663090469,
 		"zoom": {
-			"value": 0.9000000000000004
+			"value": 0.45
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
