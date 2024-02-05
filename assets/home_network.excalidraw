@@ -1923,10 +1923,10 @@
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 77.12693059983451,
-		"scrollY": 666.6924250392053,
+		"scrollX": -8.365132892229212,
+		"scrollY": 972.3303218646024,
 		"zoom": {
-			"value": 0.45
+			"value": 0.5
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
