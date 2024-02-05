@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "74f5274e7bdd818e",
@@ -148,20 +147,20 @@
   },
   "active": "09d2b4703d86aae9",
   "lastOpenFiles": [
+    "Informatique/Linux networking/iptables.md",
+    "Informatique/Linux networking/Network interface.md",
+    "Informatique/Linux networking/Network namespace.md",
+    "Informatique/Linux networking/Route table.md",
+    "Informatique/Make bootable usb.md",
+    "assets/home_network.excalidraw",
     "assets/backup-server_simon.excalidraw",
     "assets/dns_schema_home.excalidraw",
-    "assets/home_network.excalidraw",
     "Perso/Informatique/Home setup/Network.md",
     "Perso/Informatique/Simon setup/Stockage.md",
     "Perso/Informatique/Home setup/Setup mail server.md",
     "Perso/Informatique/Home setup/Remote access VPN.md",
     "Perso/Informatique/Home setup",
-    "Informatique/Linux networking/Route table.md",
-    "Informatique/Linux networking/iptables.md",
     "Informatique/Linux networking/Général.md",
-    "Informatique/Make bootable usb.md",
-    "Informatique/Linux networking/Network namespace.md",
-    "Informatique/Linux networking/Network interface.md",
     "assets/backup_simon.png",
     "assets/dns_schema_home.png",
     "assets/Unconfirmed 869670.crdownload",
