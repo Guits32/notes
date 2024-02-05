@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatique/Linux networking/Général.md",
+                "file": "Informatique/Linux networking/iptables.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatique/Linux networking/Général.md",
+                "file": "Informatique/Linux networking/iptables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatique/Linux networking/Général.md",
+                "file": "Informatique/Linux networking/iptables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatique/Linux networking/Général.md"
+                "file": "Informatique/Linux networking/iptables.md"
               }
             }
           }
@@ -149,11 +149,12 @@
   },
   "active": "09d2b4703d86aae9",
   "lastOpenFiles": [
+    "Informatique/Linux networking/Network namespace.md",
+    "Informatique/Linux networking/Route table.md",
+    "Informatique/Linux networking/Général.md",
     "Informatique/Linux networking/iptables.md",
     "assets/home_network.excalidraw",
     "Informatique/Linux networking/Network interface.md",
-    "Informatique/Linux networking/Network namespace.md",
-    "Informatique/Linux networking/Route table.md",
     "Informatique/Make bootable usb.md",
     "assets/backup-server_simon.excalidraw",
     "assets/dns_schema_home.excalidraw",
@@ -162,7 +163,6 @@
     "Perso/Informatique/Home setup/Setup mail server.md",
     "Perso/Informatique/Home setup/Remote access VPN.md",
     "Perso/Informatique/Home setup",
-    "Informatique/Linux networking/Général.md",
     "assets/backup_simon.png",
     "assets/dns_schema_home.png",
     "assets/Unconfirmed 869670.crdownload",
