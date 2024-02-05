@@ -11,11 +11,9 @@
             "id": "09d2b4703d86aae9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Informatique/Linux networking/iptables.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/home_network.excalidraw"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatique/Linux networking/iptables.md",
+                "file": "assets/home_network.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatique/Linux networking/iptables.md",
+                "file": "assets/home_network.excalidraw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatique/Linux networking/iptables.md"
+                "file": "assets/home_network.excalidraw"
               }
             }
           }
@@ -149,10 +147,10 @@
   },
   "active": "09d2b4703d86aae9",
   "lastOpenFiles": [
+    "Informatique/Linux networking/iptables.md",
     "Informatique/Linux networking/Network namespace.md",
     "Informatique/Linux networking/Route table.md",
     "Informatique/Linux networking/Général.md",
-    "Informatique/Linux networking/iptables.md",
     "assets/home_network.excalidraw",
     "Informatique/Linux networking/Network interface.md",
     "Informatique/Make bootable usb.md",
