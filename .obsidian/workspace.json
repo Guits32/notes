@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3357e941d53f6bba",
+        "id": "34cc0a3fa074e3eb",
         "type": "tabs",
         "children": [
           {
-            "id": "09d2b4703d86aae9",
+            "id": "3a2ebb014fadfcac",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "assets/home_network.excalidraw"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -84,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/home_network.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/home_network.excalidraw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "assets/home_network.excalidraw"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,13 +140,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "09d2b4703d86aae9",
+  "active": "3a2ebb014fadfcac",
   "lastOpenFiles": [
+    "assets/home_network.excalidraw",
     "Informatique/Linux networking/Général.md",
     "Informatique/Linux networking/Route table.md",
     "Informatique/Linux networking/Network namespace.md",
     "Informatique/Linux networking/iptables.md",
-    "assets/home_network.excalidraw",
     "Informatique/Linux networking/Network interface.md",
     "Informatique/Make bootable usb.md",
     "assets/backup-server_simon.excalidraw",
