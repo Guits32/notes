@@ -2042,7 +2042,7 @@
 			"y": 610.7540531691809,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#fff9db",
-			"width": 152.34375,
+			"width": 175.78125,
 			"height": 144,
 			"seed": 248799829,
 			"groupIds": [
@@ -2057,12 +2057,12 @@
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 3,
-			"text": "dnsmasq\n[192.168.2.3]\n\n- MEM: 1 GB\n- CPU: 1 vCPU\n- DISK: 20 GB",
-			"rawText": "dnsmasq\n[192.168.2.3]\n\n- MEM: 1 GB\n- CPU: 1 vCPU\n- DISK: 20 GB",
+			"text": "dnsmasq\n[192.168.2.254]\n\n- MEM: 1 GB\n- CPU: 1 vCPU\n- DISK: 20 GB",
+			"rawText": "dnsmasq\n[192.168.2.254]\n\n- MEM: 1 GB\n- CPU: 1 vCPU\n- DISK: 20 GB",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": "KfPAFnGIeLIxP27mKctGx",
-			"originalText": "dnsmasq\n[192.168.2.3]\n\n- MEM: 1 GB\n- CPU: 1 vCPU\n- DISK: 20 GB",
+			"originalText": "dnsmasq\n[192.168.2.254]\n\n- MEM: 1 GB\n- CPU: 1 vCPU\n- DISK: 20 GB",
 			"lineHeight": 1.2,
 			"baseline": 139
 		},
@@ -4469,17 +4469,10 @@
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": "arrow",
 		"currentItemEndArrowhead": "arrow",
-<<<<<<< HEAD
-		"scrollX": -291.8915476314729,
-		"scrollY": 670.1993243898546,
-		"zoom": {
-			"value": 0.55
-=======
 		"scrollX": -739.9442327237975,
 		"scrollY": -1442.4598599193432,
 		"zoom": {
 			"value": 0.49999999999999994
->>>>>>> 2f93b2f7d4fe1a304b70e67e1529624a6518298e
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
