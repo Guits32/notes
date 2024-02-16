@@ -11,10 +11,8 @@
             "id": "3a2ebb014fadfcac",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "assets/home_network.excalidraw"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -67,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "74f5274e7bdd818e",
@@ -83,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/home_network.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/home_network.excalidraw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "assets/home_network.excalidraw"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,17 +142,17 @@
   },
   "active": "3a2ebb014fadfcac",
   "lastOpenFiles": [
-    "assets/dns_schema_home.excalidraw",
-    "assets/backup-server_simon.excalidraw",
-    "assets/home_network.excalidraw",
     "Informatique/etcd/Basic command.md",
     "Informatique/etcd",
+    "assets/home_network.excalidraw",
     "Informatique/Linux networking/Général.md",
     "Informatique/Linux networking/Route table.md",
     "Informatique/Linux networking/Network namespace.md",
     "Informatique/Linux networking/iptables.md",
     "Informatique/Linux networking/Network interface.md",
     "Informatique/Make bootable usb.md",
+    "assets/backup-server_simon.excalidraw",
+    "assets/dns_schema_home.excalidraw",
     "Perso/Informatique/Home setup/Network.md",
     "Perso/Informatique/Simon setup/Stockage.md",
     "Perso/Informatique/Home setup/Setup mail server.md",
