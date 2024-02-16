@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "22bd629a55607c00",
+        "id": "b0b9b36afa887e0a",
         "type": "tabs",
         "children": [
           {
-            "id": "14abc606222052f8",
+            "id": "9329f74ac1f62ccd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "assets/home_network.excalidraw"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -67,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "74f5274e7bdd818e",
@@ -83,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/home_network.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/home_network.excalidraw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "assets/home_network.excalidraw"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,10 +140,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "14abc606222052f8",
+  "active": "9329f74ac1f62ccd",
   "lastOpenFiles": [
-    "dns_setup.excalidraw",
     "assets/home_network.excalidraw",
+    "dns_setup.excalidraw",
     "assets/dns_schema_home.excalidraw",
     "assets/backup-server_simon.excalidraw",
     "Informatique/etcd/Basic command.md",
