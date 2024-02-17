@@ -2916,8 +2916,8 @@
 		},
 		{
 			"type": "rectangle",
-			"version": 183,
-			"versionNonce": 649260091,
+			"version": 185,
+			"versionNonce": 561237019,
 			"isDeleted": false,
 			"id": "c6qn2A2le-EHDQsP3IQJ3",
 			"fillStyle": "solid",
@@ -2960,9 +2960,17 @@
 				{
 					"id": "VVNuQcsIU_R_IJ7zfdQNB",
 					"type": "arrow"
+				},
+				{
+					"id": "gQ0R1xYa-WfYhG4gu_1bZ",
+					"type": "arrow"
+				},
+				{
+					"id": "HTkeSVYWPc1DQ7anRG39M",
+					"type": "arrow"
 				}
 			],
-			"updated": 1708181834598,
+			"updated": 1708184745085,
 			"link": null,
 			"locked": false
 		},
@@ -5176,8 +5184,8 @@
 		},
 		{
 			"type": "diamond",
-			"version": 1088,
-			"versionNonce": 1241618997,
+			"version": 1089,
+			"versionNonce": 1559929653,
 			"isDeleted": false,
 			"id": "HCZ8tsJfZM8GoXWo4Np6d",
 			"fillStyle": "solid",
@@ -5204,9 +5212,13 @@
 				{
 					"id": "RvkgJ1_L4JMP_Co8OTiTG",
 					"type": "arrow"
+				},
+				{
+					"id": "gQ0R1xYa-WfYhG4gu_1bZ",
+					"type": "arrow"
 				}
 			],
-			"updated": 1708183928403,
+			"updated": 1708184724251,
 			"link": null,
 			"locked": false
 		},
@@ -5249,8 +5261,8 @@
 		},
 		{
 			"type": "diamond",
-			"version": 1214,
-			"versionNonce": 775536251,
+			"version": 1215,
+			"versionNonce": 2090713435,
 			"isDeleted": false,
 			"id": "dhasmwj_fVY3Vr1h-cOkh",
 			"fillStyle": "solid",
@@ -5273,9 +5285,13 @@
 				{
 					"type": "text",
 					"id": "mk97xeyrikuyCj45HhM1v"
+				},
+				{
+					"id": "HTkeSVYWPc1DQ7anRG39M",
+					"type": "arrow"
 				}
 			],
-			"updated": 1708183912263,
+			"updated": 1708184745085,
 			"link": null,
 			"locked": false
 		},
@@ -5434,6 +5450,114 @@
 			"originalText": "CRI",
 			"lineHeight": 1.2,
 			"baseline": 121
+		},
+		{
+			"id": "gQ0R1xYa-WfYhG4gu_1bZ",
+			"type": "arrow",
+			"x": 2835.2750088054686,
+			"y": 2718.7663450189757,
+			"width": 339.86500073558045,
+			"height": 192.31385407476773,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#40c057",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1504206683,
+			"version": 117,
+			"versionNonce": 61883675,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1708184729407,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					192.31385407476773
+				],
+				[
+					339.86500073558045,
+					190.65597602239905
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "c6qn2A2le-EHDQsP3IQJ3",
+				"focus": -0.6239670014326552,
+				"gap": 14.919580081492086
+			},
+			"endBinding": {
+				"elementId": "HCZ8tsJfZM8GoXWo4Np6d",
+				"focus": 0.02779148710085919,
+				"gap": 12.04231609289431
+			},
+			"startArrowhead": "arrow",
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "HTkeSVYWPc1DQ7anRG39M",
+			"type": "arrow",
+			"x": 2725.855057349135,
+			"y": 2723.7399791760818,
+			"width": 452.6007082966512,
+			"height": 475.81100102981327,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#40c057",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1909056373,
+			"version": 139,
+			"versionNonce": 397782005,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1708184749867,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					474.1531229774446
+				],
+				[
+					452.6007082966512,
+					475.81100102981327
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "c6qn2A2le-EHDQsP3IQJ3",
+				"focus": -0.22687846792176772,
+				"gap": 19.893214238598148
+			},
+			"endBinding": {
+				"elementId": "dhasmwj_fVY3Vr1h-cOkh",
+				"focus": -0.017802213466594382,
+				"gap": 10.933828381363355
+			},
+			"startArrowhead": "arrow",
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
@@ -5451,10 +5575,10 @@
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": "arrow",
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -1688.4754747414265,
-		"scrollY": -2327.199910517338,
+		"scrollX": -878.609455599641,
+		"scrollY": -2638.88157341305,
 		"zoom": {
-			"value": 0.8031806733741693
+			"value": 0.45318067337416906
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
