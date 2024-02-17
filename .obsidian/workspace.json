@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b0b9b36afa887e0a",
+        "id": "3357e941d53f6bba",
         "type": "tabs",
         "children": [
           {
-            "id": "9329f74ac1f62ccd",
+            "id": "09d2b4703d86aae9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Informatique/Openssl.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "74f5274e7bdd818e",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Informatique/Openssl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Informatique/Openssl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Informatique/Openssl.md"
+              }
             }
           }
         ]
@@ -140,20 +147,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9329f74ac1f62ccd",
+  "active": "09d2b4703d86aae9",
   "lastOpenFiles": [
     "assets/home_network.excalidraw",
-    "dns_setup.excalidraw",
-    "assets/dns_schema_home.excalidraw",
-    "assets/backup-server_simon.excalidraw",
     "Informatique/etcd/Basic command.md",
     "Informatique/etcd",
+    "assets/backup-server_simon.excalidraw",
+    "Informatique/Openssl.md",
     "Informatique/Linux networking/Général.md",
     "Informatique/Linux networking/Route table.md",
     "Informatique/Linux networking/Network namespace.md",
     "Informatique/Linux networking/iptables.md",
     "Informatique/Linux networking/Network interface.md",
     "Informatique/Make bootable usb.md",
+    "assets/dns_schema_home.excalidraw",
     "Perso/Informatique/Home setup/Network.md",
     "Perso/Informatique/Simon setup/Stockage.md",
     "Perso/Informatique/Home setup/Setup mail server.md",
@@ -162,9 +169,9 @@
     "assets/backup_simon.png",
     "assets/dns_schema_home.png",
     "assets/Unconfirmed 869670.crdownload",
+    "dns_setup.excalidraw",
     "assets/Unconfirmed 291164.crdownload",
     "assets/Unconfirmed 55789.crdownload",
-    "Informatique/Openssl.md",
     "Informatique/Linux networking/DNS resolution.md",
     "Perso/Préparer les aventures.md",
     "Perso/Bouquin.md",
