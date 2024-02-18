@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatique/kuberntes/Control plane.md",
+                "file": "Informatique/Linux networking/Network interface.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatique/kuberntes/Control plane.md",
+                "file": "Informatique/Linux networking/Network interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatique/kuberntes/Control plane.md",
+                "file": "Informatique/Linux networking/Network interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatique/kuberntes/Control plane.md"
+                "file": "Informatique/Linux networking/Network interface.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "8ec393274ba2b60f",
   "lastOpenFiles": [
+    "Perso/Informatique/Home setup/Network.md",
     "Informatique/kuberntes/Control plane.md",
     "Informatique/kuberntes/Worker node.md",
     "Informatique/kuberntes/Overview.md",
@@ -170,7 +171,6 @@
     "Informatique/Linux networking/Network interface.md",
     "Informatique/Make bootable usb.md",
     "assets/dns_schema_home.excalidraw",
-    "Perso/Informatique/Home setup/Network.md",
     "Perso/Informatique/Simon setup/Stockage.md",
     "Perso/Informatique/Home setup/Setup mail server.md",
     "Perso/Informatique/Home setup/Remote access VPN.md",
