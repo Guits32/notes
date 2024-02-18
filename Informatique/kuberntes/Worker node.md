@@ -4,7 +4,7 @@ For matter of memory handling the SWAP must be off on wor'ker node. See this enh
 
 To disable the swap in the current session:
 ```
-
+sudo swapoff -a
 ```
 
 To disable the swap at startup:
