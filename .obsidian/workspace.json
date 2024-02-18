@@ -11,9 +11,11 @@
             "id": "30c39feb8b6c6eec",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "assets/home_network.excalidraw"
+                "file": "Informatique/kuberntes/Worker node.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/home_network.excalidraw",
+                "file": "Informatique/kuberntes/Worker node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/home_network.excalidraw",
+                "file": "Informatique/kuberntes/Worker node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/home_network.excalidraw"
+                "file": "Informatique/kuberntes/Worker node.md"
               }
             }
           }
@@ -147,10 +149,11 @@
   },
   "active": "30c39feb8b6c6eec",
   "lastOpenFiles": [
+    "assets/home_network.excalidraw",
+    "Informatique/kuberntes/Worker node.md",
     "Informatique/kuberntes/Networking.md",
     "Informatique/kuberntes/Overview.md",
     "assets/kube_overview.excalidraw.md",
-    "assets/home_network.excalidraw",
     "assets/kubernetes-overview.excalidraw.md",
     "Untitled 1.md",
     "Untitled.md",
