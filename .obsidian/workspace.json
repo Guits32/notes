@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatique/kuberntes/Worker node.md",
+                "file": "Informatique/kuberntes/Control plane.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatique/kuberntes/Worker node.md",
+                "file": "Informatique/kuberntes/Control plane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatique/kuberntes/Worker node.md",
+                "file": "Informatique/kuberntes/Control plane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatique/kuberntes/Worker node.md"
+                "file": "Informatique/kuberntes/Control plane.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "30c39feb8b6c6eec",
   "lastOpenFiles": [
-    "assets/home_network.excalidraw",
     "Informatique/kuberntes/Worker node.md",
-    "Informatique/kuberntes/Networking.md",
     "Informatique/kuberntes/Overview.md",
+    "Informatique/kuberntes/Control plane.md",
+    "assets/home_network.excalidraw",
+    "Informatique/kuberntes/Networking.md",
     "assets/kube_overview.excalidraw.md",
     "assets/kubernetes-overview.excalidraw.md",
     "Untitled 1.md",
