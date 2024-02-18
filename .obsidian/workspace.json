@@ -11,9 +11,11 @@
             "id": "09d2b4703d86aae9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "assets/home_network.excalidraw"
+                "file": "Informatique/kuberntes/Networking.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "74f5274e7bdd818e",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/home_network.excalidraw",
+                "file": "Informatique/kuberntes/Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/home_network.excalidraw",
+                "file": "Informatique/kuberntes/Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/home_network.excalidraw"
+                "file": "Informatique/kuberntes/Networking.md"
               }
             }
           }
@@ -148,9 +149,11 @@
   },
   "active": "09d2b4703d86aae9",
   "lastOpenFiles": [
+    "assets/home_network.excalidraw",
+    "Informatique/kuberntes/Networking.md",
+    "Informatique/kuberntes",
     "assets/backup-server_simon.excalidraw",
     "Informatique/Openssl.md",
-    "assets/home_network.excalidraw",
     "Informatique/etcd/Basic command.md",
     "Informatique/etcd",
     "Informatique/Linux networking/Général.md",
@@ -174,7 +177,6 @@
     "Informatique/Linux networking/DNS resolution.md",
     "Perso/Préparer les aventures.md",
     "Perso/Bouquin.md",
-    "Perso/Ascension vignemale.md",
-    "assets/pfSense-CE-2.7.2-RELEASE-amd64.iso.gz"
+    "Perso/Ascension vignemale.md"
   ]
 }
