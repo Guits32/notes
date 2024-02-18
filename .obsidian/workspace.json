@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3357e941d53f6bba",
+        "id": "80d5d9cc519b2134",
         "type": "tabs",
         "children": [
           {
-            "id": "09d2b4703d86aae9",
+            "id": "a2fcd109c216b7f5",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "assets/home_network.excalidraw"
+                "file": "assets/kube_overview.excalidraw.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/home_network.excalidraw",
+                "file": "assets/kube_overview.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/home_network.excalidraw",
+                "file": "assets/kube_overview.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/home_network.excalidraw"
+                "file": "assets/kube_overview.excalidraw.md"
               }
             }
           }
@@ -145,10 +145,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "09d2b4703d86aae9",
+  "active": "a2fcd109c216b7f5",
   "lastOpenFiles": [
-    "Informatique/kuberntes/Networking.md",
     "assets/home_network.excalidraw",
+    "assets/kube_overview.excalidraw.md",
+    "assets/kubernetes-overview.excalidraw.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Informatique/kuberntes/Networking.md",
     "Informatique/kuberntes",
     "assets/backup-server_simon.excalidraw",
     "Informatique/Openssl.md",
