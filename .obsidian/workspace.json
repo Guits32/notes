@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dbc80c24307340d2",
+        "id": "b0b9b36afa887e0a",
         "type": "tabs",
         "children": [
           {
-            "id": "8ec393274ba2b60f",
+            "id": "9329f74ac1f62ccd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatique/Linux networking/Network interface.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "74f5274e7bdd818e",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatique/Linux networking/Network interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatique/Linux networking/Network interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Informatique/Linux networking/Network interface.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,30 +140,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ec393274ba2b60f",
+  "active": "9329f74ac1f62ccd",
   "lastOpenFiles": [
-    "Informatique/Linux networking/Route table.md",
-    "Informatique/Linux networking/Network namespace.md",
-    "Informatique/Linux networking/Network interface.md",
-    "Perso/Informatique/Home setup/Network.md",
-    "Informatique/kuberntes/Control plane.md",
+    "assets/kube_overview.excalidraw.md",
     "Informatique/kuberntes/Worker node.md",
     "Informatique/kuberntes/Overview.md",
-    "assets/home_network.excalidraw",
     "Informatique/kuberntes/Networking.md",
-    "assets/kube_overview.excalidraw.md",
-    "assets/kubernetes-overview.excalidraw.md",
-    "Untitled 1.md",
-    "Untitled.md",
+    "Informatique/kuberntes/Control plane.md",
     "Informatique/kuberntes",
+    "assets/home_network.excalidraw",
+    "dns_setup.excalidraw",
+    "assets/dns_schema_home.excalidraw",
     "assets/backup-server_simon.excalidraw",
-    "Informatique/Openssl.md",
     "Informatique/etcd/Basic command.md",
     "Informatique/etcd",
     "Informatique/Linux networking/Général.md",
+    "Informatique/Linux networking/Route table.md",
+    "Informatique/Linux networking/Network namespace.md",
     "Informatique/Linux networking/iptables.md",
+    "Informatique/Linux networking/Network interface.md",
     "Informatique/Make bootable usb.md",
-    "assets/dns_schema_home.excalidraw",
+    "Perso/Informatique/Home setup/Network.md",
     "Perso/Informatique/Simon setup/Stockage.md",
     "Perso/Informatique/Home setup/Setup mail server.md",
     "Perso/Informatique/Home setup/Remote access VPN.md",
@@ -178,9 +168,9 @@
     "assets/backup_simon.png",
     "assets/dns_schema_home.png",
     "assets/Unconfirmed 869670.crdownload",
-    "dns_setup.excalidraw",
     "assets/Unconfirmed 291164.crdownload",
     "assets/Unconfirmed 55789.crdownload",
+    "Informatique/Openssl.md",
     "Informatique/Linux networking/DNS resolution.md",
     "Perso/Préparer les aventures.md",
     "Perso/Bouquin.md",
