@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b0b9b36afa887e0a",
+        "id": "fb7fe4ae92fb9ab9",
         "type": "tabs",
         "children": [
           {
-            "id": "9329f74ac1f62ccd",
+            "id": "f59736e8ff4e1430",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -140,7 +140,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9329f74ac1f62ccd",
+  "active": "f59736e8ff4e1430",
   "lastOpenFiles": [
     "assets/kube_overview.excalidraw.md",
     "Informatique/kuberntes/Worker node.md",
