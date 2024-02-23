@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "00a75f6832bf19bc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +147,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00a75f6832bf19bc",
+  "active": "f59736e8ff4e1430",
   "lastOpenFiles": [
     "assets/kube_overview.excalidraw.md",
     "Informatique/kuberntes/Worker node.md",

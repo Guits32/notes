@@ -1,4 +1,4 @@
-gnomùeGenerate an rsa key:
+Generate an rsa key:
 ```
 openssl genrsa -out ca.key 2048
 ```
