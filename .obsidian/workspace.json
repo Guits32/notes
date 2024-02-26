@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/kube_overview.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/kube_overview.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "assets/kube_overview.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -143,10 +139,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f727f8bab53ea643",
+  "active": "ed5790e9e88152fd",
   "lastOpenFiles": [
-    "Informatique/Openssl.md",
     "assets/kube_overview.excalidraw.md",
+    "Informatique/Openssl.md",
     "Informatique/kuberntes/Worker node.md",
     "Informatique/kuberntes/Overview.md",
     "Informatique/kuberntes/Networking.md",
