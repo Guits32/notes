@@ -4,29 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8461a605e2280bb8",
+        "id": "365bb86889a6a1d0",
         "type": "tabs",
         "children": [
           {
-            "id": "ed5790e9e88152fd",
+            "id": "7d760fc310388682",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c145ab9058bd6486",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "excalidraw",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "assets/backup-server_simon.excalidraw"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "assets/backup-server_simon.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "assets/backup-server_simon.excalidraw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "assets/backup-server_simon.excalidraw"
+              }
             }
           }
         ]
@@ -150,18 +145,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c145ab9058bd6486",
+  "active": "7d760fc310388682",
   "lastOpenFiles": [
+    "assets/home_network.excalidraw",
+    "assets/dns_schema_home.excalidraw",
     "assets/kube_overview.excalidraw.md",
+    "Informatique/kuberntes/Control plane.md",
     "Informatique/Openssl.md",
     "Informatique/kuberntes/Worker node.md",
     "Informatique/kuberntes/Overview.md",
     "Informatique/kuberntes/Networking.md",
-    "Informatique/kuberntes/Control plane.md",
     "Informatique/kuberntes",
-    "assets/home_network.excalidraw",
     "dns_setup.excalidraw",
-    "assets/dns_schema_home.excalidraw",
     "assets/backup-server_simon.excalidraw",
     "Informatique/etcd/Basic command.md",
     "Informatique/etcd",
