@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "c145ab9058bd6486",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +150,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ed5790e9e88152fd",
+  "active": "c145ab9058bd6486",
   "lastOpenFiles": [
     "assets/kube_overview.excalidraw.md",
     "Informatique/Openssl.md",
