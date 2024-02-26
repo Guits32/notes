@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "01c13813225549ba",
+        "id": "8461a605e2280bb8",
         "type": "tabs",
         "children": [
           {
-            "id": "09214650c3e33d3d",
+            "id": "ed5790e9e88152fd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "assets/kube_overview.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -67,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "74f5274e7bdd818e",
@@ -146,7 +143,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "09214650c3e33d3d",
+  "active": "f727f8bab53ea643",
   "lastOpenFiles": [
     "Informatique/Openssl.md",
     "assets/kube_overview.excalidraw.md",
