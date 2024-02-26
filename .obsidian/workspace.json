@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fb7fe4ae92fb9ab9",
+        "id": "01c13813225549ba",
         "type": "tabs",
         "children": [
           {
-            "id": "f59736e8ff4e1430",
+            "id": "09214650c3e33d3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatique/Openssl.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatique/Openssl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatique/Openssl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Informatique/Openssl.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +139,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f59736e8ff4e1430",
+  "active": "09214650c3e33d3d",
   "lastOpenFiles": [
+    "Informatique/Openssl.md",
     "assets/kube_overview.excalidraw.md",
     "Informatique/kuberntes/Worker node.md",
     "Informatique/kuberntes/Overview.md",
@@ -177,7 +170,6 @@
     "assets/Unconfirmed 869670.crdownload",
     "assets/Unconfirmed 291164.crdownload",
     "assets/Unconfirmed 55789.crdownload",
-    "Informatique/Openssl.md",
     "Informatique/Linux networking/DNS resolution.md",
     "Perso/Préparer les aventures.md",
     "Perso/Bouquin.md",
