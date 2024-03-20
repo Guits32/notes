@@ -11,24 +11,15 @@
             "id": "7d760fc310388682",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "assets/backup-server_simon.excalidraw"
-              }
-            }
-          },
-          {
-            "id": "533e6042c1f3eb3b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
+                "file": "Perso/Ascension vignemale.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/backup-server_simon.excalidraw",
+                "file": "Perso/Ascension vignemale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/backup-server_simon.excalidraw",
+                "file": "Perso/Ascension vignemale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/backup-server_simon.excalidraw"
+                "file": "Perso/Ascension vignemale.md"
               }
             }
           }
@@ -156,8 +147,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "533e6042c1f3eb3b",
+  "active": "7d760fc310388682",
   "lastOpenFiles": [
+    "dns_setup.excalidraw",
+    "assets/backup-server_simon.excalidraw",
     "assets/home_network.excalidraw",
     "assets/dns_schema_home.excalidraw",
     "assets/kube_overview.excalidraw.md",
@@ -167,8 +160,6 @@
     "Informatique/kuberntes/Overview.md",
     "Informatique/kuberntes/Networking.md",
     "Informatique/kuberntes",
-    "dns_setup.excalidraw",
-    "assets/backup-server_simon.excalidraw",
     "Informatique/etcd/Basic command.md",
     "Informatique/etcd",
     "Informatique/Linux networking/Général.md",
