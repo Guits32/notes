@@ -16,8 +16,19 @@
                 "file": "assets/backup-server_simon.excalidraw"
               }
             }
+          },
+          {
+            "id": "533e6042c1f3eb3b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +156,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d760fc310388682",
+  "active": "533e6042c1f3eb3b",
   "lastOpenFiles": [
     "assets/home_network.excalidraw",
     "assets/dns_schema_home.excalidraw",
