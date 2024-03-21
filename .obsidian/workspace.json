@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "365bb86889a6a1d0",
+        "id": "3feb1c45f235825d",
         "type": "tabs",
         "children": [
           {
-            "id": "7d760fc310388682",
+            "id": "59c6275724dd31b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Perso/Ascension vignemale.md",
+                "file": "Perso/Informatique/Simon setup/Stockage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Perso/Ascension vignemale.md",
+                "file": "Perso/Informatique/Simon setup/Stockage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Perso/Ascension vignemale.md",
+                "file": "Perso/Informatique/Simon setup/Stockage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Perso/Ascension vignemale.md"
+                "file": "Perso/Informatique/Simon setup/Stockage.md"
               }
             }
           }
@@ -147,14 +147,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d760fc310388682",
+  "active": "59c6275724dd31b3",
   "lastOpenFiles": [
-    "dns_setup.excalidraw",
     "assets/backup-server_simon.excalidraw",
+    "Perso/Informatique/Simon setup/Stockage.md",
+    "Informatique/kuberntes/Control plane.md",
+    "assets/kube_overview.excalidraw.md",
     "assets/home_network.excalidraw",
     "assets/dns_schema_home.excalidraw",
-    "assets/kube_overview.excalidraw.md",
-    "Informatique/kuberntes/Control plane.md",
+    "dns_setup.excalidraw",
+    "Perso/Ascension vignemale.md",
     "Informatique/Openssl.md",
     "Informatique/kuberntes/Worker node.md",
     "Informatique/kuberntes/Overview.md",
@@ -169,7 +171,6 @@
     "Informatique/Linux networking/Network interface.md",
     "Informatique/Make bootable usb.md",
     "Perso/Informatique/Home setup/Network.md",
-    "Perso/Informatique/Simon setup/Stockage.md",
     "Perso/Informatique/Home setup/Setup mail server.md",
     "Perso/Informatique/Home setup/Remote access VPN.md",
     "Perso/Informatique/Home setup",
@@ -180,7 +181,6 @@
     "assets/Unconfirmed 55789.crdownload",
     "Informatique/Linux networking/DNS resolution.md",
     "Perso/Préparer les aventures.md",
-    "Perso/Bouquin.md",
-    "Perso/Ascension vignemale.md"
+    "Perso/Bouquin.md"
   ]
 }
