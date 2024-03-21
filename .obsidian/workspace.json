@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Perso/Informatique/Simon setup/Stockage.md",
+                "file": "Informatique/Make bootable usb.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Perso/Informatique/Simon setup/Stockage.md",
+                "file": "Informatique/Make bootable usb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Perso/Informatique/Simon setup/Stockage.md",
+                "file": "Informatique/Make bootable usb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Perso/Informatique/Simon setup/Stockage.md"
+                "file": "Informatique/Make bootable usb.md"
               }
             }
           }
@@ -149,12 +149,12 @@
   },
   "active": "59c6275724dd31b3",
   "lastOpenFiles": [
-    "assets/backup-server_simon.excalidraw",
-    "Perso/Informatique/Simon setup/Stockage.md",
-    "Informatique/kuberntes/Control plane.md",
-    "assets/kube_overview.excalidraw.md",
-    "assets/home_network.excalidraw",
     "assets/dns_schema_home.excalidraw",
+    "assets/home_network.excalidraw",
+    "assets/kube_overview.excalidraw.md",
+    "Perso/Informatique/Simon setup/Stockage.md",
+    "assets/backup-server_simon.excalidraw",
+    "Informatique/kuberntes/Control plane.md",
     "dns_setup.excalidraw",
     "Perso/Ascension vignemale.md",
     "Informatique/Openssl.md",
