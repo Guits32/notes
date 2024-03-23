@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3feb1c45f235825d",
+        "id": "365bb86889a6a1d0",
         "type": "tabs",
         "children": [
           {
-            "id": "59c6275724dd31b3",
+            "id": "7d760fc310388682",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatique/Make bootable usb.md",
+                "file": "Informatique/kuberntes/Networking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatique/Make bootable usb.md",
+                "file": "Informatique/kuberntes/Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatique/Make bootable usb.md",
+                "file": "Informatique/kuberntes/Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatique/Make bootable usb.md"
+                "file": "Informatique/kuberntes/Networking.md"
               }
             }
           }
@@ -147,21 +147,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59c6275724dd31b3",
+  "active": "7d760fc310388682",
   "lastOpenFiles": [
-    "assets/dns_schema_home.excalidraw",
-    "assets/home_network.excalidraw",
-    "assets/kube_overview.excalidraw.md",
-    "Perso/Informatique/Simon setup/Stockage.md",
+    "conflict-files-obsidian-git.md",
+    "Informatique/kuberntes/Networking.md",
     "assets/backup-server_simon.excalidraw",
+    "assets/home_network.excalidraw",
+    "assets/dns_schema_home.excalidraw",
+    "assets/kube_overview.excalidraw.md",
     "Informatique/kuberntes/Control plane.md",
-    "dns_setup.excalidraw",
-    "Perso/Ascension vignemale.md",
     "Informatique/Openssl.md",
     "Informatique/kuberntes/Worker node.md",
     "Informatique/kuberntes/Overview.md",
-    "Informatique/kuberntes/Networking.md",
     "Informatique/kuberntes",
+    "dns_setup.excalidraw",
     "Informatique/etcd/Basic command.md",
     "Informatique/etcd",
     "Informatique/Linux networking/Général.md",
@@ -171,6 +170,7 @@
     "Informatique/Linux networking/Network interface.md",
     "Informatique/Make bootable usb.md",
     "Perso/Informatique/Home setup/Network.md",
+    "Perso/Informatique/Simon setup/Stockage.md",
     "Perso/Informatique/Home setup/Setup mail server.md",
     "Perso/Informatique/Home setup/Remote access VPN.md",
     "Perso/Informatique/Home setup",
@@ -181,6 +181,7 @@
     "assets/Unconfirmed 55789.crdownload",
     "Informatique/Linux networking/DNS resolution.md",
     "Perso/Préparer les aventures.md",
-    "Perso/Bouquin.md"
+    "Perso/Bouquin.md",
+    "Perso/Ascension vignemale.md"
   ]
 }
