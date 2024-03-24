@@ -1,0 +1,1 @@
+Everything is here - https://kubernetes.io/docs/reference/access-authn-authz/authentication/#x509-client-certificates
