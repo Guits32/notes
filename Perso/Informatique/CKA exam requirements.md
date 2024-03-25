@@ -3,3 +3,4 @@
 - [ ] Voir comment installer des paquets sur ubuntu
 - [ ] Planifier la date de l'exam (procédure détailler [ici](https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2/scheduling-or-rescheduling-an-exam))
 - [ ] Relire les règles avant l'exams
+- [ ] Vérifier s'il y a un accent grave sur mon passeport (car j'aimis un accent grave dans le verify name du "Exam Preparation checklist")
