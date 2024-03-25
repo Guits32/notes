@@ -1,1 +1,5 @@
-- 
+- [ ] Acheter un cable RJ45 de >= 7m
+- [ ] Installer DEBIAN sur le PC du taff
+- [ ] Voir comment installer des paquets sur ubuntu
+- [ ] Planifier la date de l'exam (procédure détailler [ici](https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2/scheduling-or-rescheduling-an-exam))
+- [ ] Relire les règles avant l'exams
