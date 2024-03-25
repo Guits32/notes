@@ -5,15 +5,21 @@
 - [ ] Acheter un cable RJ45 de >= 7m
 - [ ] Voir comment installer des paquets sur ubuntu
 - [ ] Planifier la date de l'exam (procédure détailler [ici](https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2/scheduling-or-rescheduling-an-exam))
+- [ ] Mettre dans mes documents un scan de mon passeport
 
 
 ## Préparation avant l'exam
 
 - [ ] Relire les règles avant l'exams - [ici](https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2/exam-rules-and-policies)
-- [ 
+- [ ] préparer la pièce:
+	- [ ] sortir les deux écrans
+	- [ ] vider la bibliothèque de ses livres
+	- [ ] Virer les tableaux du murs
+- [ ] brancher le pc sur secteur
+- [ ] branche le cable RJ45
 ## Au moment de l'exam
 
 Les détails sur la mise en route de l'exam - https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2/taking-the-exam
 
 - [ ] Avoir a dispostion mon passeport
-- [ ] 
+- [ ] en cas de pb pendant l'exam: 
