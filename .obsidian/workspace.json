@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "365bb86889a6a1d0",
+        "id": "d54764020c470a13",
         "type": "tabs",
         "children": [
           {
-            "id": "7d760fc310388682",
+            "id": "97c5a981ef11587f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Perso/Informatique/CKA exam requirements.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Perso/Informatique/CKA exam requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Perso/Informatique/CKA exam requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Perso/Informatique/CKA exam requirements.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,22 +139,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d760fc310388682",
+  "active": "97c5a981ef11587f",
   "lastOpenFiles": [
-    "Informatique/kuberntes/Authentication.md",
     "Perso/Informatique/CKA exam requirements.md",
-    "Informatique/kuberntes/Networking.md",
-    "conflict-files-obsidian-git.md",
-    "assets/backup-server_simon.excalidraw",
-    "assets/home_network.excalidraw",
+    "Informatique/Make bootable usb.md",
+    "Informatique/kuberntes/Authentication.md",
     "assets/dns_schema_home.excalidraw",
+    "assets/home_network.excalidraw",
     "assets/kube_overview.excalidraw.md",
+    "Perso/Informatique/Simon setup/Stockage.md",
+    "assets/backup-server_simon.excalidraw",
     "Informatique/kuberntes/Control plane.md",
+    "dns_setup.excalidraw",
+    "Perso/Ascension vignemale.md",
     "Informatique/Openssl.md",
     "Informatique/kuberntes/Worker node.md",
     "Informatique/kuberntes/Overview.md",
+    "Informatique/kuberntes/Networking.md",
     "Informatique/kuberntes",
-    "dns_setup.excalidraw",
     "Informatique/etcd/Basic command.md",
     "Informatique/etcd",
     "Informatique/Linux networking/Général.md",
@@ -170,9 +164,7 @@
     "Informatique/Linux networking/Network namespace.md",
     "Informatique/Linux networking/iptables.md",
     "Informatique/Linux networking/Network interface.md",
-    "Informatique/Make bootable usb.md",
     "Perso/Informatique/Home setup/Network.md",
-    "Perso/Informatique/Simon setup/Stockage.md",
     "Perso/Informatique/Home setup/Setup mail server.md",
     "Perso/Informatique/Home setup/Remote access VPN.md",
     "Perso/Informatique/Home setup",
@@ -183,7 +175,6 @@
     "assets/Unconfirmed 55789.crdownload",
     "Informatique/Linux networking/DNS resolution.md",
     "Perso/Préparer les aventures.md",
-    "Perso/Bouquin.md",
-    "Perso/Ascension vignemale.md"
+    "Perso/Bouquin.md"
   ]
 }
