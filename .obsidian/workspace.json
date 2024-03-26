@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Perso/Informatique/CKA exam requirements.md",
+                "file": "Perso/Informatique/CKA/CKA exam requirements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bad48af79df53a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Perso/Informatique/CKA/CKA fiche de révision.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Perso/Informatique/CKA exam requirements.md",
+                "file": "Perso/Informatique/CKA/CKA fiche de révision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Perso/Informatique/CKA exam requirements.md",
+                "file": "Perso/Informatique/CKA/CKA fiche de révision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Perso/Informatique/CKA exam requirements.md"
+                "file": "Perso/Informatique/CKA/CKA fiche de révision.md"
               }
             }
           }
@@ -147,11 +160,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d760fc310388682",
+  "active": "f727f8bab53ea643",
   "lastOpenFiles": [
-    "Perso/Informatique/CKA fiche de révision.md",
+    "Perso/Informatique/CKA/CKA exam requirements.md",
+    "Perso/Informatique/CKA/CKA fiche de révision.md",
+    "Perso/Informatique/CKA",
+    "Perso/Informatique/Untitled.md",
+    "Perso/Ascension vignemale.md",
     "Informatique/kuberntes/Authentication.md",
-    "Perso/Informatique/CKA exam requirements.md",
     "Informatique/kuberntes/Networking.md",
     "conflict-files-obsidian-git.md",
     "assets/backup-server_simon.excalidraw",
@@ -181,10 +197,7 @@
     "assets/dns_schema_home.png",
     "assets/Unconfirmed 869670.crdownload",
     "assets/Unconfirmed 291164.crdownload",
-    "assets/Unconfirmed 55789.crdownload",
     "Informatique/Linux networking/DNS resolution.md",
-    "Perso/Préparer les aventures.md",
-    "Perso/Bouquin.md",
-    "Perso/Ascension vignemale.md"
+    "Perso/Préparer les aventures.md"
   ]
 }
