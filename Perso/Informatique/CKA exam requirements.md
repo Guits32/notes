@@ -5,8 +5,8 @@
 - [ ] Acheter un cable RJ45 de >= 7m
 - [ ] Acheter un adaptateur USB - RJ45
 - [ ] Voir comment installer des paquets sur ubuntu
-- [ ] Planifier la date de l'exam (procédure détailler [ici](https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2/scheduling-or-rescheduling-an-exam))
-- [ ] Mettre dans mes documents un scan de mon passeport
+- [x] Planifier la date de l'exam (procédure détailler [ici](https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2/scheduling-or-rescheduling-an-exam))
+- [x] Mettre dans mes documents un scan de mon passeport
 
 
 ## Préparation avant l'exam
