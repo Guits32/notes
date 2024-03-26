@@ -7,6 +7,7 @@
 - [x] Voir comment installer des paquets sur ubuntu
 - [x] Planifier la date de l'exam (procédure détailler [ici](https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2/scheduling-or-rescheduling-an-exam))
 - [x] Mettre dans mes documents un scan de mon passeport
+- [ ] Faire le test de performance [ici](https://syscheck.bridge.psiexams.com/)
 
 
 ## Préparation avant l'exam
@@ -21,7 +22,7 @@
 - [ ] branche le cable RJ45
 ## Au moment de l'exam
 
-A relire juste avant l'exam: https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad#exam-technical-instructions
+A relire juste avant l'exam: [instruction techniques](https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad#exam-technical-instructions)
 Les détails sur la mise en route de l'exam - https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2/taking-the-exam
 
 - [ ] Se présenter à l'examen 30min avant le début

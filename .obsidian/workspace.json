@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Perso/Informatique/CKA/CKA fiche de révision.md",
+                "file": "Perso/Informatique/CKA/CKA exam requirements.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Perso/Informatique/CKA/CKA fiche de révision.md",
+                "file": "Perso/Informatique/CKA/CKA exam requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Perso/Informatique/CKA/CKA fiche de révision.md",
+                "file": "Perso/Informatique/CKA/CKA exam requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Perso/Informatique/CKA/CKA fiche de révision.md"
+                "file": "Perso/Informatique/CKA/CKA exam requirements.md"
               }
             }
           }
@@ -160,10 +160,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f727f8bab53ea643",
+  "active": "6bad48af79df53a7",
   "lastOpenFiles": [
-    "Perso/Informatique/CKA/CKA exam requirements.md",
     "Perso/Informatique/CKA/CKA fiche de révision.md",
+    "Perso/Informatique/CKA/CKA exam requirements.md",
     "Perso/Informatique/CKA",
     "Perso/Informatique/Untitled.md",
     "Perso/Ascension vignemale.md",
