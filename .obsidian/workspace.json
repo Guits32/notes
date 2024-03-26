@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d54764020c470a13",
+        "id": "220927d4b17757d4",
         "type": "tabs",
         "children": [
           {
-            "id": "97c5a981ef11587f",
+            "id": "78dd7e26fa8fc908",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Perso/Informatique/CKA fiche de révision.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Perso/Informatique/CKA fiche de révision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Perso/Informatique/CKA fiche de révision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Perso/Informatique/CKA fiche de révision.md"
+              }
             }
           }
         ]
@@ -139,8 +147,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "97c5a981ef11587f",
+  "active": "78dd7e26fa8fc908",
   "lastOpenFiles": [
+    "Perso/Informatique/CKA fiche de révision.md",
     "Perso/Informatique/CKA exam requirements.md",
     "Informatique/Make bootable usb.md",
     "Informatique/kuberntes/Authentication.md",
