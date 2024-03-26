@@ -23,7 +23,7 @@
 ## Au moment de l'exam
 
 A relire juste avant l'exam: [instruction techniques](https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad#exam-technical-instructions)
-Les détails sur la mise en route de l'exam - https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2/taking-the-exam
+Les détails sur la mise en route de l'exam - [ici](https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2/taking-the-exam)
 
 - [ ] Se présenter à l'examen 30min avant le début
 - [ ] Avoir a dispostion mon passeport 
