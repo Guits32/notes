@@ -12,7 +12,8 @@
 ## Préparation avant l'exam
 
 - [ ] Relire les règles avant l'exams - [ici](https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2/exam-rules-and-policies)
-- [ ] préparer la pièce:
+- [ ] préparer la pièce:*
+	- [ ] détails  [ici](https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad#acceptable-testing-location)
 	- [ ] sortir les deux écrans
 	- [ ] vider la bibliothèque de ses livres
 	- [ ] Virer les tableaux du murs
