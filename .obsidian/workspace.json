@@ -11,8 +11,10 @@
             "id": "78dd7e26fa8fc908",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "assets/kube_overview.excalidraw.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "assets/kube_overview.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "assets/kube_overview.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "assets/kube_overview.excalidraw.md"
+              }
             }
           }
         ]
@@ -141,6 +147,10 @@
   },
   "active": "78dd7e26fa8fc908",
   "lastOpenFiles": [
+    "assets/home_network.excalidraw",
+    "assets/dns_schema_home.excalidraw",
+    "assets/backup-server_simon.excalidraw",
+    "Perso/Préparer les aventures.md",
     "Perso/Informatique/CKA fiche de révision.md",
     "Perso/Informatique/CKA/CKA fiche de révision.md",
     "Perso/Informatique/CKA/CKA exam requirements.md",
@@ -148,11 +158,8 @@
     "Perso/Informatique/CKA exam requirements.md",
     "Informatique/Make bootable usb.md",
     "Informatique/kuberntes/Authentication.md",
-    "assets/dns_schema_home.excalidraw",
-    "assets/home_network.excalidraw",
     "assets/kube_overview.excalidraw.md",
     "Perso/Informatique/Simon setup/Stockage.md",
-    "assets/backup-server_simon.excalidraw",
     "Informatique/kuberntes/Control plane.md",
     "dns_setup.excalidraw",
     "Perso/Ascension vignemale.md",
@@ -176,8 +183,6 @@
     "assets/dns_schema_home.png",
     "assets/Unconfirmed 869670.crdownload",
     "assets/Unconfirmed 291164.crdownload",
-    "Informatique/Linux networking/DNS resolution.md",
-    "Perso/Préparer les aventures.md",
-    "Perso/Bouquin.md"
+    "Informatique/Linux networking/DNS resolution.md"
   ]
 }
