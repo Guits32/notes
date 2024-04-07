@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "220927d4b17757d4",
+        "id": "564d8b22b42dfa91",
         "type": "tabs",
         "children": [
           {
-            "id": "78dd7e26fa8fc908",
+            "id": "71ca4f0ebb30a147",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "assets/kube_overview.excalidraw.md"
+                "file": "Perso/Informatique/CKA/CKA fiche de révision.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/kube_overview.excalidraw.md",
+                "file": "Perso/Informatique/CKA/CKA fiche de révision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/kube_overview.excalidraw.md",
+                "file": "Perso/Informatique/CKA/CKA fiche de révision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/kube_overview.excalidraw.md"
+                "file": "Perso/Informatique/CKA/CKA fiche de révision.md"
               }
             }
           }
@@ -145,8 +147,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78dd7e26fa8fc908",
+  "active": "71ca4f0ebb30a147",
   "lastOpenFiles": [
+    "assets/kube_overview.excalidraw.md",
     "assets/home_network.excalidraw",
     "assets/dns_schema_home.excalidraw",
     "assets/backup-server_simon.excalidraw",
@@ -158,7 +161,6 @@
     "Perso/Informatique/CKA exam requirements.md",
     "Informatique/Make bootable usb.md",
     "Informatique/kuberntes/Authentication.md",
-    "assets/kube_overview.excalidraw.md",
     "Perso/Informatique/Simon setup/Stockage.md",
     "Informatique/kuberntes/Control plane.md",
     "dns_setup.excalidraw",

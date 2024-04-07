@@ -14,3 +14,6 @@ openssl x509 -in file.crt -text -noout
 	- `arp`, `netstat`, `route` => `sudo apt install net-tools`
 	- `dig`, `nslookup` => `sudo apt install dnsutils`
 	- `nc` => `sudo apt install netcat`
+- Travailler avec un CRI plugin (docker, containerd, etc...): `crictl` 
+	- lister les container: `crictl ps`
+	- lister les images: `crictl images`
