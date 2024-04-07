@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Perso/Informatique/CKA/CKA fiche de révision.md",
+                "file": "Informatique/kuberntes/Networking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Perso/Informatique/CKA/CKA fiche de révision.md",
+                "file": "Informatique/kuberntes/Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Perso/Informatique/CKA/CKA fiche de révision.md",
+                "file": "Informatique/kuberntes/Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Perso/Informatique/CKA/CKA fiche de révision.md"
+                "file": "Informatique/kuberntes/Networking.md"
               }
             }
           }
@@ -149,20 +149,20 @@
   },
   "active": "71ca4f0ebb30a147",
   "lastOpenFiles": [
+    "Informatique/kuberntes/Control plane.md",
+    "Perso/Informatique/CKA/CKA fiche de révision.md",
     "assets/kube_overview.excalidraw.md",
     "assets/home_network.excalidraw",
     "assets/dns_schema_home.excalidraw",
     "assets/backup-server_simon.excalidraw",
     "Perso/Préparer les aventures.md",
     "Perso/Informatique/CKA fiche de révision.md",
-    "Perso/Informatique/CKA/CKA fiche de révision.md",
     "Perso/Informatique/CKA/CKA exam requirements.md",
     "Perso/Informatique/CKA",
     "Perso/Informatique/CKA exam requirements.md",
     "Informatique/Make bootable usb.md",
     "Informatique/kuberntes/Authentication.md",
     "Perso/Informatique/Simon setup/Stockage.md",
-    "Informatique/kuberntes/Control plane.md",
     "dns_setup.excalidraw",
     "Perso/Ascension vignemale.md",
     "Informatique/Openssl.md",
