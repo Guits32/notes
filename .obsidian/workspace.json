@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatique/kuberntes/Networking.md",
+                "file": "Perso/Informatique/CKA/CKA exam requirements.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatique/kuberntes/Networking.md",
+                "file": "Perso/Informatique/CKA/CKA exam requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatique/kuberntes/Networking.md",
+                "file": "Perso/Informatique/CKA/CKA exam requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatique/kuberntes/Networking.md"
+                "file": "Perso/Informatique/CKA/CKA exam requirements.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "71ca4f0ebb30a147",
   "lastOpenFiles": [
+    "Informatique/kuberntes/Networking.md",
     "Informatique/kuberntes/Control plane.md",
     "Perso/Informatique/CKA/CKA fiche de révision.md",
     "assets/kube_overview.excalidraw.md",
@@ -168,7 +169,6 @@
     "Informatique/Openssl.md",
     "Informatique/kuberntes/Worker node.md",
     "Informatique/kuberntes/Overview.md",
-    "Informatique/kuberntes/Networking.md",
     "Informatique/kuberntes",
     "Informatique/etcd/Basic command.md",
     "Informatique/etcd",
