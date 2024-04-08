@@ -2,12 +2,12 @@
 ## A faire
 
 - [x] Vérifier s'il y a un accent grave sur mon passeport (car j'ai mis un accent grave dans le verify name du "Exam Preparation checklist")
-- [ ] Acheter un cable RJ45 de >= 7m
-- [ ] Acheter un adaptateur USB - RJ45
+- [x] Acheter un cable RJ45 de >= 7m
+- [x] Acheter un adaptateur USB - RJ45
 - [x] Voir comment installer des paquets sur ubuntu
 - [x] Planifier la date de l'exam (procédure détailler [ici](https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2/scheduling-or-rescheduling-an-exam))
 - [x] Mettre dans mes documents un scan de mon passeport
-- [ ] Faire le test de performance [ici](https://syscheck.bridge.psiexams.com/)
+- [x] Faire le test de performance [ici](https://syscheck.bridge.psiexams.com/)
 
 
 ## Préparation avant l'exam
