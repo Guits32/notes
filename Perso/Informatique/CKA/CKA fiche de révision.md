@@ -17,4 +17,4 @@ openssl x509 -in file.crt -text -noout
 - Travailler avec un CRI plugin (docker, containerd, etc...): `crictl` 
 	- lister les container: `crictl ps`
 	- lister les images: `crictl images`
-- Attention au conteneur qui ne trouve pas des fichiers, il fautr regarder les volumes du Pods et non pas le filesystem de l'hôte.
+- Attention au conteneur qui ne trouve pas des fichiers, il faut regarder les volumes du Pods et non pas le filesystem de l'hôte.
