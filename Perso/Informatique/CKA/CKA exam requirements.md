@@ -13,13 +13,13 @@
 ## Préparation avant l'exam
 
 - [ ] Relire les règles avant l'exams - [ici](https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2/exam-rules-and-policies)
-- [ ] préparer la pièce:
-	- [ ] détails  [ici](https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad#acceptable-testing-location)
-	- [ ] sortir les deux écrans
-	- [ ] vider la bibliothèque de ses livres
-	- [ ] Virer les tableaux du murs
-- [ ] brancher le pc sur secteur
-- [ ] branche le cable RJ45
+- [x] préparer la pièce:
+	- [x] détails  [ici](https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad#acceptable-testing-location)
+	- [x] sortir les deux écrans
+	- [x] vider la bibliothèque de ses livres
+	- [x] Virer les tableaux du murs
+- [x] brancher le pc sur secteur
+- [x] branche le cable RJ45
 ## Au moment de l'exam
 
 A relire juste avant l'exam: [instruction techniques](https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad#exam-technical-instructions)
