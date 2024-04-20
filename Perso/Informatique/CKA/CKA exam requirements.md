@@ -27,4 +27,6 @@ Les détails sur la mise en route de l'exam - [ici](https://docs.linuxfoundation
 
 - [ ] Se présenter à l'examen 30min avant le début
 - [ ] Avoir a dispostion mon passeport 
-- [ ] en cas de pb pendant l'exam: [ici](https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2/taking-the-exam#re-launching-the-exam-in-the-event-of-a-disconnect)
+- [ ] en cas de pb pendant l'exam:
+	- essayer ça - https://training.linuxfoundation.org/psi-bridge-platform-login/
+	- sinon [ici](https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2/taking-the-exam#re-launching-the-exam-in-the-event-of-a-disconnect)
