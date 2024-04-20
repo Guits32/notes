@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Perso/Informatique/CKA/CKA exam requirements.md",
+                "file": "Informatique/kuberntes/Networking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Perso/Informatique/CKA/CKA exam requirements.md",
+                "file": "Informatique/kuberntes/Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Perso/Informatique/CKA/CKA exam requirements.md",
+                "file": "Informatique/kuberntes/Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Perso/Informatique/CKA/CKA exam requirements.md"
+                "file": "Informatique/kuberntes/Networking.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "baf9d8f79eb3eca5",
   "lastOpenFiles": [
-    "Perso/Informatique/CKA/CKA fiche de révision.md",
     "Perso/Informatique/CKA/CKA exam requirements.md",
+    "Perso/Informatique/CKA/CKA fiche de révision.md",
     "Informatique/kuberntes/Networking.md",
     "Informatique/kuberntes/Control plane.md",
     "assets/kube_overview.excalidraw.md",
