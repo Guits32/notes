@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2ba6831c03ef0e9e",
+        "id": "0040a48da220588b",
         "type": "tabs",
         "children": [
           {
-            "id": "baf9d8f79eb3eca5",
+            "id": "44089c4620030632",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatique/kuberntes/Networking.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatique/kuberntes/Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatique/kuberntes/Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Informatique/kuberntes/Networking.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,11 +139,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "baf9d8f79eb3eca5",
+  "active": "44089c4620030632",
   "lastOpenFiles": [
+    "Informatique/kuberntes/Networking.md",
     "Perso/Informatique/CKA/CKA exam requirements.md",
     "Perso/Informatique/CKA/CKA fiche de révision.md",
-    "Informatique/kuberntes/Networking.md",
     "Informatique/kuberntes/Control plane.md",
     "assets/kube_overview.excalidraw.md",
     "assets/home_network.excalidraw",
