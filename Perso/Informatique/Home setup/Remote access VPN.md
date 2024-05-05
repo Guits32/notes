@@ -1,3 +1,21 @@
+
+### Plan de Fred
+
+Si tu a qu un seul noeud proxmox
+Tu monte deux vmbr
+Le vmbr0 bridge sur ton interface réseau physique
+L autre bridge sur une interface virtuelle
+Tes VM tu les déploie sur le vmbr1
+Opensense aura le wan sur vmbr0
+Et le lan sur le vmbr1
+Après sur le noeud proxmox tu fais des iprules pour drop tout le traffic sur le 8006 22 si il ne vient pas de ton lan de ta box ou de la range de ton vpn 
+Typiquement le 192.168.0.0/24 je crois
+Ça sera deja pas mal
+Et si tu es a l aise tu fais des ip rules pour bloquer tout traffic de ton vmbr1 vers le vmbr0 si il ne passe pas par ton pfsense
+Concernant le rasp si c'est un gros ça peut le faire
+
+### Ce que j'avais écris
+
 Le plan doit être construit en 2 parties:
 - mettre en place un firwall puis ouvrir la dmz de la box - voir les impacts
 - une fois valider que le firewall est opérationnel, mise en place du VPN

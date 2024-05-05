@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2ba6831c03ef0e9e",
+        "id": "3e7c0999082fdd43",
         "type": "tabs",
         "children": [
           {
-            "id": "baf9d8f79eb3eca5",
+            "id": "f9f0e5c7072f155f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "assets/home_network.excalidraw"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/home_network.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/home_network.excalidraw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "assets/home_network.excalidraw"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,8 +139,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "baf9d8f79eb3eca5",
+  "active": "f9f0e5c7072f155f",
   "lastOpenFiles": [
+    "Perso/Informatique/Home setup/Remote access VPN.md",
+    "assets/home_network.excalidraw",
     "assets/home_network.png",
     "assets/dns_schema_home.excalidraw",
     "Informatique/kuberntes/Networking.md",
@@ -154,7 +150,6 @@
     "Perso/Informatique/CKA/CKA fiche de révision.md",
     "Informatique/kuberntes/Control plane.md",
     "assets/kube_overview.excalidraw.md",
-    "assets/home_network.excalidraw",
     "assets/backup-server_simon.excalidraw",
     "Perso/Préparer les aventures.md",
     "Perso/Informatique/CKA fiche de révision.md",
@@ -178,7 +173,6 @@
     "Informatique/Linux networking/Network interface.md",
     "Perso/Informatique/Home setup/Network.md",
     "Perso/Informatique/Home setup/Setup mail server.md",
-    "Perso/Informatique/Home setup/Remote access VPN.md",
     "Perso/Informatique/Home setup",
     "assets/backup_simon.png",
     "assets/dns_schema_home.png",
