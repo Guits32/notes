@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0040a48da220588b",
+        "id": "53c51fca2c12968f",
         "type": "tabs",
         "children": [
           {
-            "id": "44089c4620030632",
+            "id": "8ef29eb1db4b97e8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "assets/home_network.excalidraw"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/home_network.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/home_network.excalidraw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "assets/home_network.excalidraw"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,9 +139,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44089c4620030632",
+  "active": "8ef29eb1db4b97e8",
   "lastOpenFiles": [
     "Perso/Informatique/Home setup/Network.md",
+    "assets/home_network.excalidraw",
     "Perso/Informatique/Home setup/Remote access VPN.md",
     "Checker origine mail.md",
     "Informatique/kuberntes/Networking.md",
@@ -155,7 +150,6 @@
     "Perso/Informatique/CKA/CKA fiche de révision.md",
     "Informatique/kuberntes/Control plane.md",
     "assets/kube_overview.excalidraw.md",
-    "assets/home_network.excalidraw",
     "assets/dns_schema_home.excalidraw",
     "assets/backup-server_simon.excalidraw",
     "Perso/Préparer les aventures.md",
@@ -183,7 +177,6 @@
     "assets/backup_simon.png",
     "assets/dns_schema_home.png",
     "assets/Unconfirmed 869670.crdownload",
-    "assets/Unconfirmed 291164.crdownload",
-    "Informatique/Linux networking/DNS resolution.md"
+    "assets/Unconfirmed 291164.crdownload"
   ]
 }
