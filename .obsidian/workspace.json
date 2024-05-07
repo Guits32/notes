@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3e7c0999082fdd43",
+        "id": "0040a48da220588b",
         "type": "tabs",
         "children": [
           {
-            "id": "f9f0e5c7072f155f",
+            "id": "44089c4620030632",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Checker origine mail.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/home_network.excalidraw"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Checker origine mail.md",
+                "file": "assets/home_network.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Checker origine mail.md",
+                "file": "assets/home_network.excalidraw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Checker origine mail.md"
+                "file": "assets/home_network.excalidraw"
               }
             }
           }
@@ -138,27 +136,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "f9f0e5c7072f155f",
+  "active": "44089c4620030632",
   "lastOpenFiles": [
-    "Checker origine mail.md",
+    "Perso/Informatique/Home setup/Network.md",
     "Perso/Informatique/Home setup/Remote access VPN.md",
-    "assets/home_network.excalidraw",
-    "assets/home_network.png",
-    "assets/dns_schema_home.excalidraw",
+    "Checker origine mail.md",
     "Informatique/kuberntes/Networking.md",
     "Perso/Informatique/CKA/CKA exam requirements.md",
     "Perso/Informatique/CKA/CKA fiche de révision.md",
     "Informatique/kuberntes/Control plane.md",
     "assets/kube_overview.excalidraw.md",
+    "assets/home_network.excalidraw",
+    "assets/dns_schema_home.excalidraw",
     "assets/backup-server_simon.excalidraw",
     "Perso/Préparer les aventures.md",
     "Perso/Informatique/CKA fiche de révision.md",
@@ -180,7 +178,6 @@
     "Informatique/Linux networking/Network namespace.md",
     "Informatique/Linux networking/iptables.md",
     "Informatique/Linux networking/Network interface.md",
-    "Perso/Informatique/Home setup/Network.md",
     "Perso/Informatique/Home setup/Setup mail server.md",
     "Perso/Informatique/Home setup",
     "assets/backup_simon.png",
