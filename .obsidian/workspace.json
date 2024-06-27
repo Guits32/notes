@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Checker origine mail.md",
+                "file": "Informatique/Openssl.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Checker origine mail.md",
+                "file": "Informatique/Openssl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Checker origine mail.md",
+                "file": "Informatique/Openssl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Checker origine mail.md"
+                "file": "Informatique/Openssl.md"
               }
             }
           }
@@ -160,10 +160,10 @@
   },
   "active": "6a92db8acaaa89e4",
   "lastOpenFiles": [
+    "Checker origine mail.md",
     "Perso/Informatique/Home setup/Network.md",
     "assets/home_network.excalidraw",
     "Perso/Informatique/Home setup/Remote access VPN.md",
-    "Checker origine mail.md",
     "Informatique/kuberntes/Networking.md",
     "Perso/Informatique/CKA/CKA exam requirements.md",
     "Perso/Informatique/CKA/CKA fiche de révision.md",
