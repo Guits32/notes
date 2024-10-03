@@ -28,9 +28,19 @@
                 "currentVersion": "1.6.3"
               }
             }
+          },
+          {
+            "id": "b7fe241ed060a14c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a92db8acaaa89e4",
+  "active": "b7fe241ed060a14c",
   "lastOpenFiles": [
     "Checker origine mail.md",
     "Perso/Informatique/Home setup/Network.md",
