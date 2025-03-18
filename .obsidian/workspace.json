@@ -33,14 +33,24 @@
             "id": "b7fe241ed060a14c",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "assets/home_network.excalidraw"
+              }
+            }
+          },
+          {
+            "id": "856d751774eec4ac",
+            "type": "leaf",
+            "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.6.5"
+                "currentVersion": "1.6.7"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatique/Openssl.md",
+                "file": "assets/home_network.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatique/Openssl.md",
+                "file": "assets/home_network.excalidraw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatique/Openssl.md"
+                "file": "assets/home_network.excalidraw"
               }
             }
           }
@@ -168,12 +178,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7fe241ed060a14c",
+  "active": "856d751774eec4ac",
   "lastOpenFiles": [
+    "Perso/Informatique/Home setup/Remote access VPN.md",
     "Checker origine mail.md",
     "Perso/Informatique/Home setup/Network.md",
     "assets/home_network.excalidraw",
-    "Perso/Informatique/Home setup/Remote access VPN.md",
     "Informatique/kuberntes/Networking.md",
     "Perso/Informatique/CKA/CKA exam requirements.md",
     "Perso/Informatique/CKA/CKA fiche de révision.md",
