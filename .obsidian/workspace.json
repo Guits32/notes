@@ -43,9 +43,11 @@
             "id": "856d751774eec4ac",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "Perso/Ascension vignemale.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -116,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/home_network.excalidraw",
+                "file": "Perso/Ascension vignemale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/home_network.excalidraw",
+                "file": "Perso/Ascension vignemale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/home_network.excalidraw"
+                "file": "Perso/Ascension vignemale.md"
               }
             }
           }
@@ -180,8 +182,11 @@
   },
   "active": "856d751774eec4ac",
   "lastOpenFiles": [
-    "Perso/Informatique/Home setup/Remote access VPN.md",
+    "Perso/Bouquin.md",
+    "Perso/Préparer les aventures.md",
     "Checker origine mail.md",
+    "dns_setup.excalidraw",
+    "Perso/Informatique/Home setup/Remote access VPN.md",
     "Perso/Informatique/Home setup/Network.md",
     "assets/home_network.excalidraw",
     "Informatique/kuberntes/Networking.md",
@@ -191,14 +196,12 @@
     "assets/kube_overview.excalidraw.md",
     "assets/dns_schema_home.excalidraw",
     "assets/backup-server_simon.excalidraw",
-    "Perso/Préparer les aventures.md",
     "Perso/Informatique/CKA fiche de révision.md",
     "Perso/Informatique/CKA",
     "Perso/Informatique/CKA exam requirements.md",
     "Informatique/Make bootable usb.md",
     "Informatique/kuberntes/Authentication.md",
     "Perso/Informatique/Simon setup/Stockage.md",
-    "dns_setup.excalidraw",
     "Perso/Ascension vignemale.md",
     "Informatique/Openssl.md",
     "Informatique/kuberntes/Worker node.md",
